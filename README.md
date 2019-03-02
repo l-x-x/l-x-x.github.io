@@ -1,9 +1,7 @@
-## Welcome to The Quantum Field Theory Course (Spring Semester, 2019) Pages
+## Welcome to The Quantum Field Theory Course (Spring, 2019) Pages
 
-The course is designed as an introductory course to the quantum field theory for the graduate students at Beijing Normal University.
+The course is designed as an introductory course to the quantum field theory for the graduate students at Beijing Normal University. The lecture notes and homework sets will be posted here.
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
