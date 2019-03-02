@@ -1,6 +1,7 @@
 ## Welcome to The Quantum Field Theory Course Pages
 
-You can use the [editor on GitHub](https://github.com/l-x-x/l-x-x.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The course is designed for the spring semester, 2019 at Beijing Normal University as an level introductory course 
+to the quantum field theory at graduate student level.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
