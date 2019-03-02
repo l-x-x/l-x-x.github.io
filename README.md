@@ -1,9 +1,8 @@
-## Welcome to The Quantum Field Theory Course (Spring, 2019) Pages
-
-The course is designed as an introductory course to the quantum field theory for the graduate students at Beijing Normal University. The lecture notes and homework sets will be posted here.
+## Xiaohui Liu
 
 
-### Markdown
+
+### Teaching Course
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
