@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Quantum Field Theory Course Pages
 
 You can use the [editor on GitHub](https://github.com/l-x-x/l-x-x.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
