@@ -12,4 +12,9 @@ The course is designed at the introductory level to the quantum field theory for
 - problem sets 1 
 
 ### References
-There are plenty open resources on QFT online, including the famous [lectures by Sydney Coleman](https://www.physics.harvard.edu/events/videos/Phys253) hosted by Harvard. 
+There are plenty open resources on QFT online, including the famous [lectures by Sydney Coleman](https://www.physics.harvard.edu/events/videos/Phys253) hosted by Harvard. Some of the topics in this course can be found in
+
+- M. Srednicki, [Quantum Field Theory](http://web.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf).
+- Matt. Schwartz, Quantum Field Theory and Standard Model.
+- S. Weinberg, The Quantum Theory of Fields.
+- Peskin & Dan Schroeder, An Introduction To Quantum Field Theory.
