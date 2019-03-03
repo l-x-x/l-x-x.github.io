@@ -26,8 +26,10 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
+        {% if site.github.is_user_page %}
         <p class="view"><a href="http://inspirehep.net/search?ln=en&ln=en&p=author%3AXiaohui.Liu.1+AND+collection%3Apublished&of=hb&action_search=Search&sf=&so=d&rm=citation&rg=25&sc=0">List of my Publications</a></p>
-
+        {% endif %}
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
