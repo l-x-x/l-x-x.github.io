@@ -12,4 +12,4 @@ The course is designed at the introductory level to the quantum field theory for
 - problem sets 1 
 
 ### References
-There are plenty open resources on QFT online including the famous [lectures by Sydney Colman](https://www.physics.harvard.edu/events/videos/Phys253) hosted by Harvard. 
+There are plenty open resources on QFT online including the famous [lectures by Sydney Coleman](https://www.physics.harvard.edu/events/videos/Phys253) hosted by Harvard. 
