@@ -6,7 +6,7 @@ The course is designed at the introductory level to the quantum field theory for
 ### Lecture notes
 - [lecture 1](https://l-x-x.github.io/qft-2019/notes/qft2019spring-1.pdf) (quantum mechanics as a 1+0 D field theory: canonical quantization, perturbation theory, asymptotic series, Feynman diagrams)
 - [lecture 2](https://l-x-x.github.io/qft-2019/notes/qft2019spring-2.pdf)  (quantum mechanics as a 1+0 D field theory: Wick Theorem, Feynman rules, Parth integral)
-- [lecture 3](https://l-x-x.github.io/qft-2019/notes/qft2019spring-3.pdf)  (quantum mechanics as a 1+0 D field theory: Parth integral,Harmonic Oscillator, Instanton, Dilute Instanton Gas) Refereces: Coleman, The Uses of Instantons. 
+- [lecture 3](https://l-x-x.github.io/qft-2019/notes/qft2019spring-3.pdf)  (quantum mechanics as a 1+0 D field theory: Parth integral,Harmonic Oscillator, Instanton, Dilute Instanton Gas) References: Coleman, The Uses of Instantons. 
 
 
 ### Homework 
