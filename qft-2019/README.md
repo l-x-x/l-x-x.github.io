@@ -12,7 +12,7 @@ References: Coleman, [The Uses of Instantons](https://l-x-x.github.io/qft-2019/n
 
 
 ### Homework 
-- [problem sets 1](https://l-x-x.github.io/qft-2019/hw/HW1.pdf), problem sets 2
+- [problem sets 1](https://l-x-x.github.io/qft-2019/hw/HW1.pdf), [problem sets 2](https://l-x-x.github.io/qft-2019/hw/HW2.pdf)
 
 ### References
 There are plenty open resources on QFT online, including the famous [lectures by Sydney Coleman](https://www.physics.harvard.edu/events/videos/Phys253) hosted by Harvard. Some of the topics in this course can be found in
