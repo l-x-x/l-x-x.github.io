@@ -8,7 +8,7 @@ The course is designed at the introductory level to the quantum field theory for
 - [lecture 2](https://l-x-x.github.io/qft-2019/notes/qft2019spring-2.pdf)  (quantum harmonic oscillator as a 1+0 D field theory: Wick Theorem, Feynman rules, Parth integral)
 - [lecture 3](https://l-x-x.github.io/qft-2019/notes/qft2019spring-3.pdf)  (quantum harmonic oscillator as a 1+0 D field theory: Parth integral, Instanton, Dilute Instanton Gas) 
 References: Coleman, [The Uses of Instantons](https://l-x-x.github.io/qft-2019/notes/Coleman-Instantons.pdf); Landau, Lifshitz, QM (2nd edition), chapter 23 problem 4, for solving K (discrete spectrum) and chapter 25 problem 5, for continuous spectrum. Find another reference on this with more details: Shifman, et. al., [ABC of Instantons](https://l-x-x.github.io/qft-2019/notes/ABC_of_Instantons.pdf). Also here is a material for highlighting the numerical power and method of Path Integral (imaginary time): Lepage, [Lattice QCD for Novices](https://arxiv.org/pdf/hep-lat/0506036.pdf) (chapeter 2 + exercise), which I hope you will appreciate. 
-- lecture 4 (relativisitic quantum mechanics: its difficulties)
+- [lecture 4](https://l-x-x.github.io/qft-2019/notes/qft2019spring-4.pdf) (relativisitic quantum mechanics: its difficulties)
 
 
 ### Homework 
