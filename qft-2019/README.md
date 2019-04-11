@@ -11,7 +11,7 @@ References: Coleman, [The Uses of Instantons](https://l-x-x.github.io/qft-2019/n
 - [lecture 4](https://l-x-x.github.io/qft-2019/notes/qft2019spring-4.pdf) (relativisitic quantum mechanics: its difficulties)
 - [lecture 5](https://l-x-x.github.io/qft-2019/notes/qft2019spring-5.pdf) (review of Classic Field theory, Electrodynamics)
 - [lecture 6](https://l-x-x.github.io/qft-2019/notes/qft2019spring-6.pdf) (Gauge Symmetry,Canonical quantization of free E&M field in coulomb gauge)
-- [lecture 7](https://l-x-x.github.io/qft-2019/notes/qft2019spring-7.pdf)  (infinities,infinities,infinities! the idea of renormalization, Casimir effects)
+- [lecture 7](https://l-x-x.github.io/qft-2019/notes/qft2019spring-7.pdf)  (infinities,infinities,infinities! the idea of renormalization from an effective theory point of view, Casimir effects)
 References:[a measurement of the Casimir forcer](https://l-x-x.github.io/qft-2019/notes/casimir.pdf) and [different voices](https://arxiv.org/pdf/hep-th/0503158.pdf). A very nice TASI lecture note on [effective theory](https://arxiv.org/pdf/hep-th/9210046.pdf) by Polchinski, which may be too much for beginners though.
 - lecture 8 (let's turn on interactions, QFT+QM, lamb shift, mass renormalization)
 
