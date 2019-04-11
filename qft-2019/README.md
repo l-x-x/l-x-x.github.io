@@ -11,8 +11,8 @@ References: Coleman, [The Uses of Instantons](https://l-x-x.github.io/qft-2019/n
 - [lecture 4](https://l-x-x.github.io/qft-2019/notes/qft2019spring-4.pdf) (relativisitic quantum mechanics: its difficulties)
 - [lecture 5](https://l-x-x.github.io/qft-2019/notes/qft2019spring-5.pdf) (review of Classic Field theory, Electrodynamics)
 - [lecture 6](https://l-x-x.github.io/qft-2019/notes/qft2019spring-6.pdf) (Gauge Symmetry,Canonical quantization of free E&M field in coulomb gauge)
-- lecture 7 (infinities, the idea of renormalization, Casimir effects)
-- lecture 8 (turn on interactions, lamb shift, mass renormalization)
+- [lecture 7](https://l-x-x.github.io/qft-2019/notes/qft2019spring-7.pdf)  (infinities,infinities,infinities! the idea of renormalization, Casimir effects)
+- lecture 8 (let's turn on interactions, QFT+QM, lamb shift, mass renormalization)
 
 ### Homework 
 - [problem sets 1](https://l-x-x.github.io/qft-2019/hw/HW1.pdf), [problem sets 2](https://l-x-x.github.io/qft-2019/hw/HW2.pdf), [problem sets 3](https://l-x-x.github.io/qft-2019/hw/HW3.pdf)
