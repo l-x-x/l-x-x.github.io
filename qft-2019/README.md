@@ -13,7 +13,8 @@ References: Coleman, [The Uses of Instantons](https://l-x-x.github.io/qft-2019/n
 - [lecture 6](https://l-x-x.github.io/qft-2019/notes/qft2019spring-6.pdf) (Gauge Symmetry,Canonical quantization of free E&M field in coulomb gauge)
 - [lecture 7](https://l-x-x.github.io/qft-2019/notes/qft2019spring-7.pdf)  (infinities,infinities,infinities! the idea of renormalization from an effective theory point of view, Casimir effects)
 References:[a measurement of the Casimir forcer](https://l-x-x.github.io/qft-2019/notes/casimir.pdf) and [different voices](https://arxiv.org/pdf/hep-th/0503158.pdf). A note on the [Euler-Maclaurin formula](https://ocw.mit.edu/courses/physics/8-323-relativistic-quantum-field-theory-i-spring-2008/lecture-notes/ft1ln02_08.pdf) taken from Guth's QFT note, for understanding the regulator independnece. A very nice TASI lecture note on [effective theory](https://arxiv.org/pdf/hep-th/9210046.pdf) by Polchinski, which may be too much for beginners though.
-- lecture 8 (let's turn on interactions, QFT+QM, lamb shift, mass renormalization)
+- [lecture 8](https://l-x-x.github.io/qft-2019/notes/qft2019spring-8.pdf) (let's turn on interactions, QFT+QM, lamb shift, mass renormalization) 
+References: We follow [Bethe's original paper](https://l-x-x.github.io/qft-2019/notes/lamb-shift-bethe.pdf) but we add more comments on the validity of the integration bounds choice. 
 
 ### Homework 
 - [problem sets 1](https://l-x-x.github.io/qft-2019/hw/HW1.pdf), [problem sets 2](https://l-x-x.github.io/qft-2019/hw/HW2.pdf), [problem sets 3](https://l-x-x.github.io/qft-2019/hw/HW3.pdf), [problem sets 4](https://l-x-x.github.io/qft-2019/hw/HW4.pdf)
