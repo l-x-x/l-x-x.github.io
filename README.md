@@ -1,7 +1,8 @@
 ## Research Interest
 - perturbative QCD
-- collider physics
 - effective field theory
+- collider physics
+- high energy nuclear physics
 
 
 
