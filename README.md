@@ -1,8 +1,8 @@
 ## Research Interest
-- perturbative QCD
-- effective field theory
-- collider physics
-- high energy nuclear physics
+- [perturbative QCD](https://l-x-x.github.io/pqcd/)
+- [effective field theory](https://l-x-x.github.io/eft/)
+- [collider physics](https://l-x-x.github.io/collider/)
+- [high energy nuclear physics](https://l-x-x.github.io/nuclear/)
 
 
 
