@@ -1,3 +1,3 @@
-## Collider Physics
+## Effective Theory
 
-Collider Physics
+Effective Theory

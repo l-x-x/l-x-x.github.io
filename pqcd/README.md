@@ -1,3 +1,3 @@
-## Collider Physics
+## Perturbative QCD
 
-Collider Physics
+Perturbative QCD
