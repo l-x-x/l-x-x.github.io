@@ -2,6 +2,7 @@
 
 These days, I put my major research focus on the high energy nuclear physics which uses hard probe to extract non-perturbative information on the nucleon/nucleus internal structures. Long term researches include the usage of jets to probe the so-called nucleon TMDs or spins. I am also planning to do systematic studies on the small-x physics. Both TMD and the small-x physics are the main scientific motivation for the planned electron-ion collider in US. 
 
+![small-x](nuclear/small-x-res.png)
 
 Works done in this direction include:
 
