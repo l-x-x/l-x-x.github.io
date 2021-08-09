@@ -12,3 +12,9 @@
 - [Quantum Field Theory I (2019 Spring)](https://l-x-x.github.io/qft-2019/)
 
 
+## Random Notes
+
+- A note on waves(https://l-x-x.github.io/qft-2019/)
+
+
+
