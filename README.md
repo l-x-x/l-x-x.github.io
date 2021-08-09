@@ -14,7 +14,7 @@
 
 ## Random Notes
 
-- A note on waves(https://l-x-x.github.io/qft-2019/note_on_waves.pdf)
+- [A note on waves](https://l-x-x.github.io/qft-2019/note_on_waves.pdf)
 
 
 
