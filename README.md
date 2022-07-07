@@ -15,6 +15,7 @@
 ## Random Notes
 
 - [A note on waves](https://l-x-x.github.io/qft-2019/note_on_waves.pdf)
+- [Lecture note on QCD for 2022 new physics and dark matter summer school in Nanjing](https://l-x-x.github.io/qft-2019/Lecture-qcd-2022-7.pdf)
 
 
 
