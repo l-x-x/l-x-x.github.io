@@ -5,6 +5,8 @@ In particle physics, colliders are mandartory tools for us to unveal the underly
 One of my research interests is developing the so-called jettiness subtraction scheme to realize the NNLO predictions for W/Z/H+jet in proton-proton collisions as well as lots of other interesting LHC processes. More studies in this direction are on-going, including understanding its power corrections, better phase space generator and its applications to the collider processes. 
 
 Some of related works are
+- W. Chen, F. Feng, Y. Jia and Xiaohui Liu, Double-Real-Virtual and Double-Virtual-Real Corrections to the Three-Loop Thrust Soft Function, 2206.12323 [hep-ph]. 
+- Hao-yu Liu, Xiaohui Liu, Sven-Olaf Moch, Anti-kT jet function at next-to-next-to-leading order, Phys.Rev.D 104 (2021) 1, 014016. 
 - Shan Jin, Xiaohui Liu*, Two-loop 𝑁-jettiness soft function for 𝑝𝑝→2𝑗 production, Phys.Rev. D99 (2019) no.11, 114017. 
 - R. Boughezal, Xiaohui Liu*, F. Petriello, Power Corrections in the N-jettiness Subtraction Scheme, JHEP 1703 (2017) 160. (51 citations) 
 - R. Boughezal, Xiaohui Liu*, F. Petriello, N-jettiness soft function at next-to-next-to-leading order, Phys. Rev. D 91 (2015) no.9, 094035. (69 citations)
