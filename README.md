@@ -16,7 +16,7 @@
 
 - [A note on waves](https://l-x-x.github.io/qft-2019/note_on_waves.pdf)
 - [Lecture note on QCD (2022 New Physics and Dark Matter Summer School in Nanjing)](https://l-x-x.github.io/qft-2019/Lecture_qcd.pdf)
-- [A short note on DIS](https://l-x-x/l-x-x.github.io/qft-2019/AShortNoteOnDIS.pdf)
+- [A short note on DIS](https://l-x-x.github.io/qft-2019/AShortNoteOnDIS.pdf)
 
 
 
