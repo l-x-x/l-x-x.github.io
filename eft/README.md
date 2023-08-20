@@ -1,3 +1,0 @@
-## Effective Theory
-
-Effective Theory
