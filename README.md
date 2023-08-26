@@ -8,7 +8,7 @@
 
 ## [Publications](https://l-x-x.github.io/publications/)
 
-## Talks(https://l-x-x.github.io/talks/)
+## [Talks](https://l-x-x.github.io/talks/)
 
 ## [About X.Liu](https://l-x-x.github.io/CV/)
 
