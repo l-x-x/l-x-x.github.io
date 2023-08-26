@@ -1,11 +1,6 @@
 ## [About Me](https://l-x-x.github.io/CV/)
 
-
-## Research Interests
-- [perturbative QCD](https://l-x-x.github.io/pqcd/)
-- [collider physics](https://l-x-x.github.io/collider/)
-- [high energy nuclear physics](https://l-x-x.github.io/nuclear/)
-
+## [Research](https://l-x-x.github.io/research/)
 
 
 ## Teaching Courses
