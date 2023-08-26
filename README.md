@@ -6,7 +6,7 @@
 
 ## [Members](https://l-x-x.github.io/members/)
 
-## [News] 
+## [News](https://l-x-x.github.io/news/) 
 
 ## [Publications](https://l-x-x.github.io/publications/)
 
