@@ -12,3 +12,6 @@ Email:xiliu@bnu.edu.cn
 - 2017 - 2022, Assistant Professor, Physics Department, Beijing Normal University
 - 2014 - 2017, Research Associate, University of Maryland, College Park
 - 2011 - 2014, Postdoctoral Research Fellow, Northwestern University and Argonne National Lab
+
+### Awards 
+- National Top Young Scholar (中组部青年拔尖）
