@@ -1,8 +1,6 @@
 ## Members 
 ### Faculty 
 
-<img src="./xiaohuiliu.png" width=14% height=14%>
-
 
 Xiaohui Liu\
 Professor \
