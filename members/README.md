@@ -8,6 +8,9 @@ Professor \
 Principal Investigator 
 
 ### Postdoctoral Scholars
+
+ <img src="./haoyu.JPG" width="102" height="135">
+
 Hao-Yu Liu (2019 - 2022)\
 Now a tenure-track faculty at the Beijing University of Chemical Technology
 
