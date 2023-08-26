@@ -7,6 +7,12 @@ Selected talks that somewhat reflect the changes in the research interests.
 - [Theory on novel jet substructure techniques](https://indico.cern.ch/event/1109611/contributions/4773201/attachments/2444893/4191496/lhcp2022.pdf) [[video](https://cds.cern.ch/record/2811519)],\
   Xiaohui Liu, 10th Edition of the Large Hadron Collider Physics Conference, Taipei, May 16 - 20, 2022. 
 
+### 2019  
+- [Lepton-jet Correlation in EIC](https://conferences.lbl.gov/event/196/contributions/1173/attachments/2048/57/go),\
+  Xiaohui Liu, 9th International Conference on Physics Opportunities at an ElecTron-Ion-Collider, Sep 16 – 21, 2019. 
+
+
+
 ### 2017 
 - [NNLO QCD Predictions](https://indico.fnal.gov/event/11999/contributions/11441/attachments/7400/9502/dpf2017.pdf),\
   Xiaohui Liu, 2017 Meeting of the APS Division of Particles and Fields, Fermi Lab, July 31 - Aug 4, 2017.
