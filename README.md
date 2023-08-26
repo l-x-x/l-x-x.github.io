@@ -4,7 +4,7 @@
 
 ## [Teaching](https://l-x-x.github.io/teaching/)
 
-## [Members]
+## [Members](https://l-x-x.github.io/members/)
 
 ## [News] 
 
