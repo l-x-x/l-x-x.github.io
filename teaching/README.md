@@ -8,7 +8,7 @@
 
 ## Summer Schools
 ### 2023 
-- [An Introduction to TMDs](https://indico.ihep.ac.cn/event/19083/contributions/136588/attachments/70326/84777/Note%20Jul%208%2C%202023%281%29.pdf), QCD and Nuclear Physics, Shandong University (Qingdao)
+- [An Introduction to TMDs](https://indico.ihep.ac.cn/event/19083/contributions/136588/attachments/70326/84777/Note%20Jul%208%2C%202023%281%29.pdf), QCD and Nuclear Physics, Shandong University (Qingdao) [video](https://www.koushare.com/lives/room/755973)
   
 ### 2022
 - [Lecture on Perturbative QCD](https://l-x-x.github.io/qft-2019/Lecture_qcd.pdf), New Physics and Dark Matter Summer School, Nanjing Normal University
