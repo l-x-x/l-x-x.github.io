@@ -11,12 +11,12 @@ Hao-Yu Liu \
 Now a tenure-track faculty at the Beijing University of Chemical Technology
 
 ### Graduate Students
-- Manman Wang
-- Haotian Cao
-- Zihao Mi
-- Xiaolin Li
-- Guorui Li 
-- Zhan Wang 
+- Manman Wang: small-x physics
+- Haotian Cao: EIC-related topics   
+- Zihao Mi: nucleon energy correlators  
+- Xiaolin Li: Spin Phycis 
+- Guorui Li: Jettiness, nucleon energy correlators in pA collisions 
+- Zhan Wang: nucleon energy correlators in pA collisions 
 
 ### Undergraduate Students
 - Shan Jin (2018 - 2019), graduated with a PRD paper (first author) and the Beijing outstanding undergraduate thesis award.    
