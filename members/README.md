@@ -3,7 +3,7 @@
 
  <img src="./xiaohuiliu.png" width="102" height="135">
 
-Xiaohui Liu\
+[Xiaohui Liu](https://l-x-x.github.io/CV/)\
 Professor \
 Principal Investigator 
 
