@@ -1,7 +1,8 @@
 ## Members 
 ### Faculty 
 
-
+ <img src="./xiaohuiliu.png" ></img>
+ 
 Xiaohui Liu\
 Professor \
 Principal Investigator 
