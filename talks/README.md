@@ -2,6 +2,10 @@
 
 Selected talks that somewhat reflect the changes in the research interests.
 
+### 2023 
+- [Nucleon Energy Correlators for the Color Glass Condensate](https://drive.google.com/file/d/1f5IxEkk2yoX7QbDETMmTpFgD_9E75vYR/view?usp=share_link),\
+  Xiaohui Liu, HIT Seminars, Lawrence Berkeley National Lab, Jan 18, 2023. 
+
 ### 2022 
 
 - [Theory on novel jet substructure techniques](https://indico.cern.ch/event/1109611/contributions/4773201/attachments/2444893/4191496/lhcp2022.pdf) [[video](https://cds.cern.ch/record/2811519)],\
