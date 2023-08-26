@@ -11,3 +11,5 @@
 ## [Publications](https://l-x-x.github.io/publications/)
 
 ## Talks
+
+## [Openings](https://l-x-x.github.io/opening/)
