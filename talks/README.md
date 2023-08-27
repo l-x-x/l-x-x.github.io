@@ -11,6 +11,9 @@ Selected talks from our group members, which somewhat reflect the migration in t
 
 ### 2022 
 
+- [Exploring Partonic Structure by Quantum Circuits](https://indico.ihep.ac.cn/event/16171/contributions/44331/attachments/21335/24295/changsha-talk.pdf),\
+  Xiaohui Liu, 4th Heavy Flavor and QCD workshop, Changsha, Hunan, Jul 27 - 30, 2022.
+  
 - [Single Inclusive Jet Production in pA Collisions at NLO](https://indico.bnl.gov/event/14375/contributions/65339/attachments/41935/70216/Single%20Inclusive%20Jet%20Production%20in%20pACollisions%20at%20NLO-cfns2022.pdf),\
   Hao-yu Liu, Jet Physics: From RHIC/LHC to EIC, Center for Frontiers in Nuclear Science, Stony Brook University, Jun 29 - Jul 1, 2022. 
  
