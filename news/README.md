@@ -6,7 +6,7 @@
 
 - Aug. Xiaohui is helping to organize a [celebration event](https://indico.ihep.ac.cn/event/19797/) for 50 years of QCD at the Center for High Energy Physics, Peking University. Read the [news](https://rchep.pku.edu.cn/info/1034/1200.htm) for more details (in Chinese). 
   
-- Aug. Manman Wang is helping me to organize the first International Physics Summer School of the physics department. We are honored to have Anthony Zee (徐一鸿, AAAS Fellow) and Alfred Mueller (AAAS Fellow, Sakurai Prize Winner) to deliver public lectures. See the [news](https://news.bnu.edu.cn/zx/zhxw/a3062beb4e5348a681e6c30935719363.htm) for more details (in Chinese).
+- Aug. Manman Wang is helping me to organize the first International Physics Summer School of the physics department. We are honored to have Anthony Zee (徐一鸿, Fellow of the American Academy of Arts and Sciences) and Alfred Mueller (Fellow of the American Academy of Arts and Sciences, Sakurai Prize Winner) to deliver public lectures. See the [news](https://news.bnu.edu.cn/zx/zhxw/a3062beb4e5348a681e6c30935719363.htm) for more details (in Chinese).
 
 - June. Our PRL paper *[Nucleon Energy Correlators for the Color Glass Condensate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.181901)* is featured as Synopsis in the *PHYSICS*: [A Different Angle on the Color Glass Condensate](https://physics.aps.org/articles/v16/s89).
  
