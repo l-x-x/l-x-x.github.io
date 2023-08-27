@@ -14,7 +14,7 @@ Principal Investigator
  <img src="./haoyu.JPG" width="102" height="135"> 
 
 Hao-Yu Liu (2019 - 2022)\
-Now a tenure-track faculty at the Beijing University of Chemical Technology
+Now a tenured faculty at the Beijing University of Chemical Technology
 
 ### Graduate Students
 - Manman Wang (Ph.D. student, 2019 - )\
