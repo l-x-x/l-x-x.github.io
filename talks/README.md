@@ -1,6 +1,6 @@
 ## Talks
 
-Selected talks that somewhat reflect the migration in the research interests.
+Selected talks from our group members, which somewhat reflect the migration in the research interests.
 
 ### 2023 
 - [Nucleon Energy Correlators](https://indico.cern.ch/event/1239374/contributions/5317052/attachments/2650587/4592730/eec-qcd-evolution.pdf),\
@@ -11,6 +11,9 @@ Selected talks that somewhat reflect the migration in the research interests.
 
 ### 2022 
 
+- [Single Inclusive Jet Production in pA Collisions at NLO](https://indico.bnl.gov/event/14375/contributions/65339/attachments/41935/70216/Single%20Inclusive%20Jet%20Production%20in%20pACollisions%20at%20NLO-cfns2022.pdf),\
+  Hao-yu Liu, Jet Physics: From RHIC/LHC to EIC, Center for Frontiers in Nuclear Science, Stony Brook University, Jun 29 - Jul 1, 2022. 
+ 
 - [Theory on novel jet substructure techniques](https://indico.cern.ch/event/1109611/contributions/4773201/attachments/2444893/4191496/lhcp2022.pdf) [[video](https://cds.cern.ch/record/2811519)],\
   Xiaohui Liu, 10th Edition of the Large Hadron Collider Physics Conference, Taipei, May 16 - 20, 2022.
 
