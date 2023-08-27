@@ -32,7 +32,10 @@ Selected talks that somewhat reflect the changes in the research interests.
 
 ### 2018 
 - [QCD Physics at the LHC](https://indico.ihep.ac.cn/event/8414/contributions/101575/attachments/54281/62482/CLHCP2018-QCD-2.pdf),\
-  Xiaohui Liu, The 4th China LHC Physics Workshop (CLHCP 2018), Central China Normal University, Dec 19 - 22, 2018.  
+  Xiaohui Liu, The 4th China LHC Physics Workshop (CLHCP 2018), Central China Normal University, Dec 19 - 22, 2018.
+
+- Inclusive jet production at the LHC,\
+  Xiaohui Liu, DESY ["Theorist of the Month"](https://www.terascale.de/research_topics/rt1_physics_analysis/analysis_centre/theorist_of_the_month/), Jan 2018. 
 
 ### 2017 
 - [NNLO QCD Predictions](https://indico.fnal.gov/event/11999/contributions/11441/attachments/7400/9502/dpf2017.pdf),\
