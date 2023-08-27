@@ -11,6 +11,9 @@ Selected talks from our group members, which somewhat reflect the migration in t
 
 ### 2022 
 
+- [Nucleon Energy Energy Correlator](https://indico.desy.de/event/32950/contributions/129272/attachments/78092/101357/eec-resummation.pdf) [[video](https://indico.desy.de/event/32950/contributions/129272/attachments/78092/101177/Xiaohui.mp4)],\
+  Xiaohui Liu, 9th Workshop on Resummation, Evolution, Factorization 2022, Online, Oct 31 - Nov 4, 2022. 
+
 - [Exploring Partonic Structure by Quantum Circuits](https://indico.ihep.ac.cn/event/16171/contributions/44331/attachments/21335/24295/changsha-talk.pdf),\
   Xiaohui Liu, 4th Heavy Flavor and QCD workshop, Changsha, Hunan, Jul 27 - 30, 2022.
   
