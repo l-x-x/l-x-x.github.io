@@ -38,6 +38,10 @@ Selected talks that somewhat reflect the changes in the research interests.
   Xiaohui Liu, DESY ["Theorist of the Month"](https://www.terascale.de/research_topics/rt1_physics_analysis/analysis_centre/theorist_of_the_month/), Jan 2018. 
 
 ### 2017 
+- [N-jettiness subtraction](https://indico.cern.ch/event/567550/contributions/2625751/attachments/1510157/2354989/ACAT2017-xhliu.pdf),\
+  Xiaohui Liu, 18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research, University of Washington, Seattle, August 21 - 25, 2017. 
+
+   
 - [NNLO QCD Predictions](https://indico.fnal.gov/event/11999/contributions/11441/attachments/7400/9502/dpf2017.pdf),\
   Xiaohui Liu, 2017 Meeting of the APS Division of Particles and Fields, Fermi Lab, July 31 - Aug 4, 2017.
 
