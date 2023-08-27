@@ -3,6 +3,9 @@
 Selected talks from our group members, which somewhat reflect the migration in the research interests.
 
 ### 2023 
+- [Phenomenology for forward particle production in pA collisions in CGC framework](https://indico.jlab.org/event/696/contributions/13156/attachments/10116/15058/EICUS_Early_Career_Manman_Wang_slides.pdf),\
+  Manman Wang, 2023 EIC User Group Early Career Workshop, Warsaw University, Jul 23, 2023. 
+   
 - [Nucleon Energy Correlators](https://indico.cern.ch/event/1239374/contributions/5317052/attachments/2650587/4592730/eec-qcd-evolution.pdf),\
   Xiaohui Liu, QCD Evolution Workshop 2023, May 22 - 26, 2023.
 
@@ -31,8 +34,13 @@ Selected talks from our group members, which somewhat reflect the migration in t
 - [Jets for spin dynamics](https://www.google.com/url?q=https://archive.int.washington.edu/talks/WorkShops/int_21_2b/People/Liu_X/Liu.pdf&sa=D&source=editors&ust=1693150692831553&usg=AOvVaw1VPyHK3AqgNOoT0aPdbqzG),\
   Xiaohui Liu, INT Program: Probing QCD at High Energy and Density with Jets, Institute for Nuclear Theory, Jul 26 - Aug 27, 2021.
 
+
 - [Threshold resummation in forward hadron production](https://indico.bnl.gov/event/6803/contributions/49179/attachments/34417/55829/QCD-EVOLUTION.pdf),\
-  Xiaohui Liu, QCD Evolution Workshop 2021, UCLA, May 10 - 14, 2021. 
+  Xiaohui Liu, QCD Evolution Workshop 2021, UCLA, May 10 - 14, 2021.
+
+- Factorization, resummation and CGC negative cross-section problem,\
+  Hao-yu Liu, Workshop on forward physics and QCD with LHC, EIC, and cosmic rays, Jefferson Lab, Jan 20 - 23, 2021. 
+
 
 ### 2020 
 - [Precision jet physics at the LHC and the EIC](https://indico.fnal.gov/event/44512/contributions/192853/attachments/132171/162278/snowmass2020.pdf),\
