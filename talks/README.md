@@ -20,7 +20,7 @@ Selected talks that somewhat reflect the changes in the research interests.
   Xiaohui Liu, INT Program: Probing QCD at High Energy and Density with Jets, Institute for Nuclear Theory, Jul 26 - Aug 27, 2021.
 
 - [Threshold resummation in forward hadron production](https://indico.bnl.gov/event/6803/contributions/49179/attachments/34417/55829/QCD-EVOLUTION.pdf),\
-  Xiaohui Liu, QCD EVOLUTION 2021, UCLA, May 10 - 14, 2021. 
+  Xiaohui Liu, QCD Evolution Workshop 2021, UCLA, May 10 - 14, 2021. 
 
 ### 2020 
 - [Precision jet physics at the LHC and the EIC](https://indico.fnal.gov/event/44512/contributions/192853/attachments/132171/162278/snowmass2020.pdf),\
