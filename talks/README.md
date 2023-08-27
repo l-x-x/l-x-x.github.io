@@ -48,6 +48,9 @@ Selected talks that somewhat reflect the migration in the research interests.
 - [NNLO QCD Predictions](https://indico.fnal.gov/event/11999/contributions/11441/attachments/7400/9502/dpf2017.pdf),\
   Xiaohui Liu, 2017 Meeting of the APS Division of Particles and Fields, Fermi Lab, July 31 - Aug 4, 2017.
 
+- [Power corrections in the N-jettiness subtraction scheme](https://indico.fnal.gov/event/24510/contributions/117770/attachments/76432/91604/talk-loopfest.pdf),\
+  Xiaohui Liu, LOOPFEST XVI, Argonne National Lab, May 31 - Jun 2, 2017. 
+
 ### 2016
 - [NNLO results for V+j at the LHC using N-jettiness](https://www.on.kitp.ucsb.edu/online/lhc16/liu/pdf/Liu_LHC16_KITP.pdf) [[video](http://s3-us-west-2.amazonaws.com/kitpcloud/lhc16/Liu_LHC16_KITP.mp4)],\
   Xiaohui Liu, KITP Program: LHC Run II and the Precision Frontier, Mar 21 - Jun 24, 2016. 
