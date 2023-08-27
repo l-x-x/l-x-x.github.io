@@ -33,6 +33,9 @@ Selected talks that somewhat reflect the changes in the research interests.
 ### 2018 
 - [QCD Physics at the LHC](https://indico.ihep.ac.cn/event/8414/contributions/101575/attachments/54281/62482/CLHCP2018-QCD-2.pdf),\
   Xiaohui Liu, The 4th China LHC Physics Workshop (CLHCP 2018), Central China Normal University, Dec 19 - 22, 2018.
+  
+- [Jet TMD](http://archive.int.washington.edu/talks/WorkShops/int_18_3/People/Liu_X/Liu.pdf) [[video](https://youtu.be/ThbrWkvFjWU)],\
+  Xiaohui Liu, INT Program: Probing Nucleons and Nuclei in High Energy Collisions, Institute for Nuclear Theory, Oct 1 - Nov 6, 2018.
 
 - Inclusive jet production at the LHC,\
   Xiaohui Liu, DESY ["Theorist of the Month"](https://www.terascale.de/research_topics/rt1_physics_analysis/analysis_centre/theorist_of_the_month/), Jan 2018. 
