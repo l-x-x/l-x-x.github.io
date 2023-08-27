@@ -28,7 +28,7 @@ Now a tenure-track faculty at the Beijing University of Chemical Technology
 - Zihao Mi (Ph.D. student, 2022 - )\
   nucleon energy correlators
   
-  <img src="./zihao.jpg" width="104" height="130">
+  <img src="./zihao.jpg" width="102" height="135">
 
 
 - Xiaolin Li (Ph.D. student, 2023 - )\
