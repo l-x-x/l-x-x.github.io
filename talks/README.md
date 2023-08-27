@@ -22,7 +22,9 @@ Selected talks that somewhat reflect the changes in the research interests.
 - [Lepton-jet Correlation in EIC](https://conferences.lbl.gov/event/196/contributions/1173/attachments/2048/57/go),\
   Xiaohui Liu, 9th International Conference on Physics Opportunities at an ElecTron-Ion-Collider, Sep 16 – 21, 2019. 
 
-
+### 2018 
+- [QCD Physics at the LHC](https://indico.ihep.ac.cn/event/8414/contributions/101575/attachments/54281/62482/CLHCP2018-QCD-2.pdf),\
+  Xiaohui Liu, The 4th China LHC Physics Workshop (CLHCP 2018), Central China Normal University, Dec 19 - 22, 2018.  
 
 ### 2017 
 - [NNLO QCD Predictions](https://indico.fnal.gov/event/11999/contributions/11441/attachments/7400/9502/dpf2017.pdf),\
