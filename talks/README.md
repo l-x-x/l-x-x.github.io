@@ -1,6 +1,6 @@
 ## Talks
 
-Selected talks that somewhat reflect the changes in the research interests.
+Selected talks that somewhat reflect the migration in the research interests.
 
 ### 2023 
 - [Nucleon Energy Correlators](https://indico.cern.ch/event/1239374/contributions/5317052/attachments/2650587/4592730/eec-qcd-evolution.pdf),\
