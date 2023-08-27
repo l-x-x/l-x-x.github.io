@@ -49,6 +49,9 @@ Selected talks from our group members, which somewhat reflect the migration in t
 - [Jet TMD](http://archive.int.washington.edu/talks/WorkShops/int_18_3/People/Liu_X/Liu.pdf) [[video](https://youtu.be/ThbrWkvFjWU)],\
   Xiaohui Liu, INT Program: Probing Nucleons and Nuclei in High Energy Collisions, Institute for Nuclear Theory, Oct 1 - Nov 6, 2018.
 
+- [Progress in jet physics at colliders - From LHC to EIC](https://indico.bnl.gov/event/4429/contributions/22832/attachments/19394/25269/Xiaohui-talk-bnl-2018.pdf),\
+  Xiaohui Liu, Probing quark-gluon matter with jets, Brookhaven National Lab, Jul 23 - 27, 2018.
+
 - Inclusive jet production at the LHC,\
   Xiaohui Liu, DESY ["Theorist of the Month"](https://www.terascale.de/research_topics/rt1_physics_analysis/analysis_centre/theorist_of_the_month/), Jan 2018. 
 
