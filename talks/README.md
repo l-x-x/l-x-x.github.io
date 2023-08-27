@@ -7,10 +7,10 @@ Selected talks from our group members, which somewhat reflect the migration in t
   Manman Wang, 2023 EIC User Group Early Career Workshop, Warsaw University, Jul 23, 2023. 
    
 - [Nucleon Energy Correlators](https://indico.cern.ch/event/1239374/contributions/5317052/attachments/2650587/4592730/eec-qcd-evolution.pdf),\
-  Xiaohui Liu, QCD Evolution Workshop 2023, May 22 - 26, 2023.
+  Xiaohui Liu, QCD Evolution Workshop 2023, Université Paris-Saclay,  May 22 - 26, 2023.
 
 - Nucleon Energy-Energy Correlator in Lepton-Ion Collisions,\
-  Haotian Cao, SCET 2023, Mar 27 - 30, 2023. 
+  Haotian Cao, SCET 2023, Lawrence Berkeley National Lab, Mar 27 - 30, 2023. 
   
 - [Nucleon Energy Correlators for the Color Glass Condensate](https://drive.google.com/file/d/1f5IxEkk2yoX7QbDETMmTpFgD_9E75vYR/view?usp=share_link),\
   Xiaohui Liu, HIT Seminars, Lawrence Berkeley National Lab, Jan 18, 2023. 
