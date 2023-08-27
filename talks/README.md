@@ -14,6 +14,10 @@ Selected talks that somewhat reflect the changes in the research interests.
 - [Theory on novel jet substructure techniques](https://indico.cern.ch/event/1109611/contributions/4773201/attachments/2444893/4191496/lhcp2022.pdf) [[video](https://cds.cern.ch/record/2811519)],\
   Xiaohui Liu, 10th Edition of the Large Hadron Collider Physics Conference, Taipei, May 16 - 20, 2022. 
 
+### 2020 
+- [Precision jet physics at the LHC and the EIC](https://indico.fnal.gov/event/44512/contributions/192853/attachments/132171/162278/snowmass2020.pdf),\
+  Xiaohui Liu, Theory Frontier Kick-Off Town Hall Meeting, Fermi Lab, Jul 30, 2020. 
+
 ### 2019  
 - [Lepton-jet Correlation in EIC](https://conferences.lbl.gov/event/196/contributions/1173/attachments/2048/57/go),\
   Xiaohui Liu, 9th International Conference on Physics Opportunities at an ElecTron-Ion-Collider, Sep 16 – 21, 2019. 
