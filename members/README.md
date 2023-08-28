@@ -20,7 +20,7 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 - Manman Wang (Ph.D. student, 2019 - )\
   small-x physics 
 
-  <img src="./manman.jpg" width="112" height="130">
+  <img src="./manman.jpg" width="130" height="130">
 
 - Haotian Cao (Ph.D. student, 2019 - )\
   EIC-related topics
