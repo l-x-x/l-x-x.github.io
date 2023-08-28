@@ -1,6 +1,6 @@
 ## Talks
 
-Selected talks from our group members, which somewhat reflect the migration in the research interests.
+Selected talks from our group members, somewhat highlight the migration and evolution of our research focus over time.
 
 ### 2023 
 - [Phenomenology for forward particle production in pA collisions in CGC framework](https://indico.jlab.org/event/696/contributions/13156/attachments/10116/15058/EICUS_Early_Career_Manman_Wang_slides.pdf),\
