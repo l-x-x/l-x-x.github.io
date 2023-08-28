@@ -10,5 +10,5 @@
 
 - June. Our PRL paper *[Nucleon Energy Correlators for the Color Glass Condensate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.181901)* is featured as Synopsis in the *PHYSICS*: [A Different Angle on the Color Glass Condensate](https://physics.aps.org/articles/v16/s89).
 
-    <img src="./cgc.png" width="750" height="135"> 
+    <img src="./cgc.png" width="375" height="67"> 
 
