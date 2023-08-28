@@ -3,7 +3,7 @@
 
 
 
-<img src="./xiaohuiliu.png" width= "102" height= "135" >  
+<img src="./xiaohuiliu.jpg" width= "102" height= "135" >  
 
 [Xiaohui Liu](https://l-x-x.github.io/CV/)  \
 Professor \
