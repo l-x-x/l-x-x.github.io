@@ -36,7 +36,7 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 - Xiaolin Li (Ph.D. student, 2023 - )\
   spin physics
   
-  <img src="./xiaolin.JPG" width="115" height="130">
+  <img src="./xiaolin.jpeg" width="115" height="130">
 
 - Guorui Li (Ph.D. student, 2023 - )\
   jettiness, nucleon energy correlators in pA collisions
