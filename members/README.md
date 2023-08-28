@@ -25,7 +25,7 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 
 - Haotian Cao (Ph.D. student, 2019 - )\
   EIC-related topics\
-  Publications: [PRD 107 (2023) 11, 114008](https://doi.org/10.1103/PhysRevD.107.114008). 
+  Publications: [PRD 107 (2023) 11, 114008](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.114008). 
    
   <img src="./haotian.JPG" width="130" height="130">
   
