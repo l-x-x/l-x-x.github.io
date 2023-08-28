@@ -18,7 +18,8 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 
 ### Graduate Students
 - Manman Wang (Ph.D. student, 2019 - )\
-  small-x physics 
+  small-x physics\
+  Publications:[2205.04570](https://arxiv.org/abs/2205.04570). 
 
   <img src="./manman.jpg" width="130" height="130">
 
