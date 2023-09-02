@@ -44,7 +44,7 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 - Guorui Li (Ph.D. student, 2023 - )\
   jettiness, nucleon energy correlators in pA collisions
   
-  <img src="./guorui.jpg" width="115" height="130">
+  <img src="./guorui.jpg" width="140" height="130">
  
 - Jiaqian Sun (Master student, 2018 - 2020)\
   small-x physics\
