@@ -39,7 +39,7 @@ Now a tenured faculty at the Beijing University of Chemical Technology
   spin physics\
   Publications: [2308.10942](https://arxiv.org/abs/2308.10942).
 
-  <img src="./xiaolin.jpeg" width="115" height="130">
+  <img src="./xiaolin.jpg" width="120" height="130">
 
 - Guorui Li (Ph.D. student, 2023 - )\
   jettiness, nucleon energy correlators in pA collisions
