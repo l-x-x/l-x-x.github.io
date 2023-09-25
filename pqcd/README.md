@@ -1,8 +1,15 @@
-## Perturbative QCD
+## Precision QCD
 
-In particle physics, colliders are mandatory tools for us to unveil the underlying nature of our universe. While perturbative QCD (or perturbative field theories) is the only feasible method to allow us to predict the collider phenomenologies out of the first principles. No substitution is known at the moment. The way that perturbative QCD works is by expanding the predictions in terms of the strong coupling constant to the leading order, next-to-leading order so on and so forth, to gradually approximate reality.  At the moment, Next-to-next-to-leading order (NNLO) QCD predictions are highly welcomed by collider physics for the purpose of either precision measurements or data descriptions. 
+Particle colliders are essential tools in particle physics as they allow us to explore and understand the fundamental nature of our universe. To make predictions about the phenomena observed in collider experiments, we rely on perturbative QCD (Quantum Chromodynamics) or perturbative field theories. This approach is currently the most effective method for predicting collider phenomenology based on fundamental principles.
 
-One of my research interests is developing the so-called jettiness subtraction scheme to realize the NNLO predictions for W/Z/H+jet in proton-proton collisions as well as lots of other interesting LHC processes. More studies in this direction are ongoing, including understanding its power corrections, better phase space generator, and its applications to the collider processes. 
+Perturbative QCD works by expanding the predictions in terms of the strong coupling constant. These expansions are done to different orders, such as leading order, next-to-leading order, and so on, allowing us to gradually approximate the behavior of particles and interactions in reality. In the past few years, around 2016, there has been significant interest in Next-to-Next-to-Leading Order (NNLO) QCD predictions, which have proven highly valuable in collider physics for precision measurements and data descriptions.
+
+One intriguing area of research revolves around the development of the jettiness subtraction scheme. This scheme aims to achieve NNLO predictions for processes involving the production of W, Z, or H bosons along with jets in proton-proton collisions, among other interesting processes studied at the Large Hadron Collider (LHC). Ongoing studies in this field include understanding power corrections, improving the phase space generator, and exploring its applications to various collider processes.
+
+Overall, perturbative QCD and the ongoing advancements in techniques like the jettiness subtraction scheme play a crucial role in our ability to understand and describe the complex phenomena observed in particle colliders.
+
+
+
 
 Some of the related works are
 - W. Chen, F. Feng, Y. Jia and Xiaohui Liu, Double-Real-Virtual and Double-Virtual-Real Corrections to the Three-Loop Thrust Soft Function, 2206.12323 [hep-ph]. 
