@@ -4,7 +4,7 @@
 Professor \
 Physics Department, Beijing Normal University \
 Office: C405 Sci. & Tech. Building \
-Email:xiliu@bnu.edu.cn
+Email:xiliu@bnu.edu.cn/xiaohuiliu@gmail.com 
 
 ### Academic Experience 
 - 2022 - now, Professor, Physics Department, Beijing Normal University
