@@ -19,10 +19,13 @@
 - Xiaohui was awarded the National Top Young Scholar.
 - Xiaohui received the Pengnian Outstanding Young Teacher Award (Graduate Teaching).  
 - Xiaohui received grants from the National Natural Science Foundation of China on jet physics.
-- Xiaohui received grants from the National Natural Science Foundation of China for summer school for collider phenomenology. 
+- Xiaohui received grants from the National Natural Science Foundation of China for summer school for collider phenomenology.
+- We organized 3 consecutive BNU dark matter workshops in 2017 (Beijing),2018 (Beijing), and 2019 (Zhuhai). The 2019 workshop took place shortly before the outbreak of the pandemic. 
 - We were happy to have Prof. Zhong-bo Kang from UCLA visiting our group for a week.
 - We were happy to have Prof. Hsiang-nan Li from the Institute of Physics, Academia Sinica visiting us and giving a Seminar talk.
 - We were happy to host Prof. Xiangdong Ji from the University of Maryland, College Park for a short visit to the Physics Department.
 - Xiaohui visited DESY as the [Theorist of the Month](https://www.terascale.de/research_topics/rt1_physics_analysis/analysis_centre/theorist_of_the_month/) in Jan. 2018.
 - Xiaohui received grants from the National Natural Science Foundation of China on the LHC phenomenology precision predictions.
-  
+- Xiaohui was invited to give a review talk on the current status of the [NNLO QCD predictions](https://indico.fnal.gov/event/11999/contributions/11441/attachments/7400/9502/dpf2017.pdf) for the LHC at the 2017 Meeting of the APS Division of Particles and Fields held in Fermi Lab.
+- Xiaohui was invited to the Aspen Summer Program: Reaching New Summits: The LHC at Full Strength. 
+- Xiaohui was invited to the KITP follow-up one-week program on the LHC Precision Frontier in Santa Barbara. 
