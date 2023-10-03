@@ -12,6 +12,7 @@
 
     <img src="./cgc.jpg" width="375" height="67"> 
 
+
 ### Random News before 2023 
 - Congratulations to Dr. Hao-yu Liu for accepting the Beijing University of Chemical Technology offer as a tenured faculty.
 - Congratulations to our Postdoc Hao-yu Liu for receiving funding from the China Postdoctoral Science Foundation in 2021.
