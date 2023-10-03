@@ -12,3 +12,15 @@
 
     <img src="./cgc.jpg" width="375" height="67"> 
 
+### Random News before 2023 
+- Congratulations to our Postdoc Hao-yu Liu to receive funding from the China Postdoctoral Science Foundation in 2021.
+- Xiaohui was awarded the National Top Young Scholar.
+- Xiaohui received the Pengnian Outstanding Young Teacher Award (Graduate Teaching).  
+- Xiaohui received grants from the National Natural Science Foundation of China on jet physics.
+- Xiaohui received grants from the National Natural Science Foundation of China for summer school for collider phenomenology. 
+- We were happy to have Prof. Zhong-bo Kang from UCLA visiting our group for a week.
+- We were happy to have Prof. Hsiang-nan Li from the Institute of Physics, Academia Sinica visiting us and giving a Seminar talk.
+- We were happy to host Prof. Xiangdong Ji from the University of Maryland, College Park for a short visit to the Physics Department.
+- Xiaohui visited DESY as the [Theorist of the Month](https://www.terascale.de/research_topics/rt1_physics_analysis/analysis_centre/theorist_of_the_month/) in Jan. 2018.
+- Xiaohui received grants from the National Natural Science Foundation of China on the LHC phenomenology precision predictions.
+  
