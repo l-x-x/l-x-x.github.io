@@ -50,7 +50,10 @@ Selected talks from our group members, somewhat highlight the migration and evol
 
 ### 2019  
 - [Lepton-jet Correlation in EIC](https://conferences.lbl.gov/event/196/contributions/1173/attachments/2048/57/go),\
-  Xiaohui Liu, 9th International Conference on Physics Opportunities at an ElecTron-Ion-Collider, Sep 16 – 21, 2019. 
+  Xiaohui Liu, 9th International Conference on Physics Opportunities at an ElecTron-Ion-Collider, Sep 16 – 21, 2019.
+
+- [Inclusive h_c production at B factories](https://agenda.infn.it/event/15632/contributions/89268/attachments/62859/75596/hc-production-B-factory-QwG-2.pdf),\
+  Xiaohui Liu, QwG 2019, Torino, Italy, May 13 – 17, 2019.
 
 ### 2018 
 - [QCD Physics at the LHC](https://indico.ihep.ac.cn/event/8414/contributions/101575/attachments/54281/62482/CLHCP2018-QCD-2.pdf),\
