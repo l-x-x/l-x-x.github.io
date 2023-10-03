@@ -13,7 +13,8 @@
     <img src="./cgc.jpg" width="375" height="67"> 
 
 ### Random News before 2023 
-- Congratulations to our Postdoc Hao-yu Liu to receive funding from the China Postdoctoral Science Foundation in 2021.
+- Congratulations to Dr. Hao-yu Liu for accepting the Beijing University of Chemical Technology offer as a tenured faculty.
+- Congratulations to our Postdoc Hao-yu Liu for receiving funding from the China Postdoctoral Science Foundation in 2021.
 - Xiaohui was awarded the National Top Young Scholar.
 - Xiaohui received the Pengnian Outstanding Young Teacher Award (Graduate Teaching).  
 - Xiaohui received grants from the National Natural Science Foundation of China on jet physics.
