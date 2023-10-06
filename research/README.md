@@ -1,6 +1,6 @@
 ## Research
 
-- [perturbative QCD](https://l-x-x.github.io/pqcd/)
-- [collider physics](https://l-x-x.github.io/collider/)
-- [high energy nuclear physics](https://l-x-x.github.io/nuclear/)
+### [Precision QCD](https://l-x-x.github.io/pqcd/)
+### [Collider Physics](https://l-x-x.github.io/collider/)
+### [Hadron Structures](https://l-x-x.github.io/nuclear/)
 
