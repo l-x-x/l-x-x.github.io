@@ -1,6 +1,6 @@
-## High Energy Nuclear Physics
+## TMD and Small-x
 
-These days, I put my major research focus on high energy nuclear physics which uses hard probes to extract non-perturbative information on the nucleon/nucleus internal structures. Long-term research includes the usage of jets to probe the so-called nucleon TMDs or spins. I am also planning to do systematic studies on small-x physics. Both TMD and small-x physics are the main scientific motivations for the planned electron-ion collider in the US. 
+These days, I put my major research focus on high-energy nuclear physics which uses hard probes to extract non-perturbative information on the nucleon/nucleus internal structures. Long-term research includes the usage of jets to probe the so-called nucleon TMDs or spins. I am also planning to do systematic studies on small-x physics. Both TMD and small-x physics are the main scientific motivations for the planned electron-ion collider in the US. 
 
 ![small-x](./small-x-res.png)
 
