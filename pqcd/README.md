@@ -12,7 +12,7 @@ One intriguing work of our research revolves around the development of the jetti
 
 This scheme has helped to achieve NNLO predictions for processes involving the production of W, Z, or H bosons along with jets in proton-proton collisions, among other interesting processes studied at the Large Hadron Collider (LHC). Ongoing studies in this field include understanding power corrections, improving the phase space generator, and exploring its applications to various collider processes. Recently we are pushing the scheme to its NNNLO capability by calculating one of its building blocks, the soft function, to the NNNLO accuracy. 
 
-In recent years, my research focus is gradually moving away from this area due to various reasons. But overall, precision QCD and the ongoing advancements in techniques like the jettiness subtraction scheme play a crucial role in our ability to understand and describe the complex phenomena observed in particle colliders.
+In recent years, my research focus has gradually moved away from this area due to various reasons. But overall, precision QCD and the ongoing advancements in techniques like the jettiness subtraction scheme play a crucial role in our ability to understand and describe the complex phenomena observed in particle colliders.
 
 Some related works are
 - W. Chen, F. Feng, Y. Jia and Xiaohui Liu*, Double-Real-Virtual and Double-Virtual-Real Corrections to the Three-Loop Thrust Soft Function, JHEP 12 (2022) 094. 
