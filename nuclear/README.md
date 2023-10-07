@@ -1,6 +1,15 @@
 ## TMD and Small-x
 
-[Under Construction]
+Transverse Momentum Dependent (TMD) physics and Small-x physics are two key scientific pillars of the future Electron-Ion Collider (EIC) and Electron-ion collider in China (EicC), which contribute to our understanding of strong interaction, particularly in high-energy particle collisions and interactions.
 
+TMD physics deals with the distribution of transverse momentum inside a hadron, which is the momentum component perpendicular to the direction of motion. Unlike the conventional parton distribution function (PDF), which considers only the longitudinal momentum of the particle, TMD physics focuses on the distribution of momentum in the transverse plane. This distribution plays a crucial role in understanding the internal structure of hadrons, such as protons and neutrons.
+
+One of the primary methods to probe TMD physics is through high-energy particle collisions, where the momenta of the scattered particles or jets are analyzed. By studying the correlations between the transverse momenta of particles or jets produced in these collisions, researchers can extract valuable information about the partonic structure inside the hadrons. TMD physics helps us gain insights into the underlying mechanisms of the strong interaction and provides us with a deeper understanding of the behavior of quarks and gluons within hadrons. For a fundamental introduction to the concept of TMD physics, see a **talk** [[video](https://www.koushare.com/lives/room/755973)] (中文) I gave at a summer school in Shandong University.   
+
+On the other hand, Small-x physics focuses on studying phenomena occurring at small values of the Bjorken variable x, which represents the fraction of the hadron's momentum carried by a parton (quark or gluon). At small-x, the parton density becomes very high, leading to the dominance of gluon-gluon interactions. This regime is particularly relevant in understanding the behavior of partons in high-energy particle collisions, such as those occurring at the Large Hadron Collider (LHC).
+
+Small-x physics is also important for studying the parton saturation phenomenon, where the gluon density reaches a limit and stops growing rapidly with energy. This saturation regime has implications for various observables, such as the total cross-section of particle reactions and the distribution of transverse energy in particle collisions.  Despite its theoretical promise, experimental evidence for gluon saturation is currently shaky. With the planned EIC on the horizon, this physics will be explored in a systematic manner with unprecedented precision. 
+
+Understanding TMD physics and Small-x physics is crucial for comprehending the strong interaction, as they provide us with valuable insights into the structure and dynamics of hadrons. Both areas of research are actively pursued in experimental studies at facilities like the LHC and in theoretical investigations using computational models. Ongoing research aims to further refine our understanding of these phenomena, contributing to our knowledge of fundamental particles and their interactions.  
 
 
