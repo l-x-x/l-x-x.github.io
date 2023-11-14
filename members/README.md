@@ -37,7 +37,7 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 
 - Xiaolin Li (Ph.D. student, 2023 - )\
   spin physics\
-  Publications: [2308.10942](https://arxiv.org/abs/2308.10942).
+  Publications: [Phys. Rev. D 108, L091502](https://doi.org/10.1103/PhysRevD.108.L091502).
 
   <img src="./xiaolin.jpg" width="120" height="130">
 
