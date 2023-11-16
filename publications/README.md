@@ -3,6 +3,8 @@ The complete list of papers can be found through [INSPIRE-HEP](https://inspirehe
   
 ### 2023 
 
+- Xiaolin Li, Xiaohui Liu, Feng Yuan, and Hua Xing Zhu, Illuminating nucleon-gluon interference via calorimetric asymmetry, Phys.Rev.D 108 (2023) 9, L091502 as **letter**. 
+  
 - Haotian Cao, Xiaohui Liu, Hua Xing Zhu, Toward precision measurements of nucleon energy correlators in lepton-nucleon collisions, Phys.Rev.D 107 (2023) 11, 114008. 
 
 - Hao-Yu Liu, Xiaohui Liu, ji-Chen Pan, Feng Yuan, and Hua Xing Zhu, Nucleon Energy Correlators for the Color Glass Condensate, **Phys. Rev. Lett.** 130 (2023) 18, 181901. (**Featured by APS Physics Magazine**: [A Different Angle on the Color Glass Condensate](https://physics.aps.org/articles/v16/s89))
