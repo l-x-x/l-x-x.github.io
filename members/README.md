@@ -54,4 +54,5 @@ Now a tenured faculty at the Beijing University of Chemical Technology
   nucleon energy correlators in pA collisions 
 
 ### Undergraduate Students
-- Shan Jin (2018 - 2019), graduated with a PRD paper (first author) on 2-loop N-jettiness soft function and the Beijing outstanding undergraduate thesis award. Next: Peking University to pursue his Ph.D. degree. 
+- Kexin Xie (2021 - 2022), graduated with a JHEP paper on Jet production in forward pA collisions. Now a Ph.D. student at Rice University. 
+- Shan Jin (2018 - 2019), graduated with a PRD paper (first author) on 2-loop N-jettiness soft function and the Beijing outstanding undergraduate thesis award. Now a Ph.D. student at Peking University. 
