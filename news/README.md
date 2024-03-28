@@ -1,5 +1,9 @@
 ## News
-
+### 2024
+- Our previous work about a new method to explore gluon saturation is now highlighted by the Dept. of Energy, USA. [Read the highlight](https://science.osti.gov/np/Highlights/2024/3e).
+  
+- Jan. Congrats to Hao-tian get the post-doc offer from Argonne National Lab and Northwestern University and will start from Sep. 2024.
+  
 ### 2023
 - Aug. Congrats to my former Postdoc Hao-yu Liu (now a faculty member at Beijing University of Chemical Technology）
   being granted the Young Scientists Fund of the National Natural Science Foundation of China (国自然青年基金, with only an 18% support rate!)
