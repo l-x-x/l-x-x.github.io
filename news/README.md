@@ -1,6 +1,6 @@
 ## News
 ### 2024
-- Our previous work about a new method to explore gluon saturation is now highlighted by the Dept. of Energy, USA. [Read the highlight](https://science.osti.gov/np/Highlights/2024/3e).
+- March. Our previous [work](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.181901) about a new method to explore gluon saturation is now highlighted by the Dept. of Energy, USA. [Read the highlight](https://science.osti.gov/np/Highlights/2024/3e).
   
 - Jan. Congrats to Hao-tian get the post-doc offer from Argonne National Lab and Northwestern University and will start from Sep. 2024.
   
