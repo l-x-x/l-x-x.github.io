@@ -1,9 +1,12 @@
 ## Talks
 
-Selected talks from our group members, somewhat highlight the migration and evolution of our research focus over time.
+Selected talks from our group members highlight the migration and evolution of our research focus over time.
+### 2024
+
+- [lluminating Nucleon Gluon Interference via Calorimetric Asymmetry](https://indico.fis.ucm.es/event/20/contributions/546/attachments/355/614/SCET2024_xiaolin.pdf), Xiaolin Li, the XXI annual workshop on Soft-Collinear Effective Theory, Salamanca, Colegio Arzobispo Fonseca, Spain, 15-18 April 2024. 
 
 ### 2023
-- [Nucleon Energy-Energy Correlator in Lepton-Ion Collisions](https://indico.jlab.org/event/663/contributions/12836/attachments/10337/15460/1_HTC_SPIN2023.pdf), Haotian Cao, 25th International Spin Symposium (SPIN 2023), Duke University, Sep 26, 2023.
+- [Nucleon Energy-Energy Correlator in Lepton-Ion Collisions](https://indico.jlab.org/event/663/contributions/12836/attachments/10337/15460/1_HTC_SPIN2023.pdf), Haotian Cao, the 25th International Spin Symposium (SPIN 2023), Duke University, Sep 26, 2023.
   
 - [Phenomenology for forward particle production in pA collisions in CGC framework](https://indico.jlab.org/event/696/contributions/13156/attachments/10116/15058/EICUS_Early_Career_Manman_Wang_slides.pdf),\
   Manman Wang, 2023 EIC User Group Early Career Workshop, Warsaw University, Jul 23, 2023. 
