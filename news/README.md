@@ -1,5 +1,7 @@
 ## News
 ### 2024
+- July. Xiaohui was invited to the [Energy Correlators at the Collider Frontier workshop](https://indico.mitp.uni-mainz.de/event/358/overview) at MITP, Mainz, and gave a seminar talk on nucleon energy correlators, the talk slides can be found [here](https://indico.mitp.uni-mainz.de/event/358/contributions/5004/attachments/3607/4681/neec-eccf.pdf)
+   
 - May. Congrats to Hao-tian on passing his Ph.D. defense. He will be a postdoc research fellow at ANL and Northwestern U. this September.
   
 - March. Our previous [work](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.181901) about a new method to explore gluon saturation is now highlighted by the Dept. of Energy, USA. [Read the highlight](https://science.osti.gov/np/Highlights/2024/3e).
