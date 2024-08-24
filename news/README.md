@@ -1,12 +1,14 @@
 ## News
 ### 2024
+- Aug. Xiaohui coordinated the 2nd Workshop on Advanced Topics in Quantum Field Theory in China, which focused on infrared divergence and factorization in QFT this year. The 5-day event took place on the picturesque beach in Qingdao, China, and included 10 engaging talks and numerous thought-provoking discussions.
+ 
 - July. Xiaohui was invited to the [Energy Correlators at the Collider Frontier workshop](https://indico.mitp.uni-mainz.de/event/358/overview) at MITP, Mainz, Germany, and gave a seminar talk on nucleon energy correlators, the talk slides can be found [here](https://indico.mitp.uni-mainz.de/event/358/contributions/5004/attachments/3607/4681/neec-eccf.pdf)
    
 - May. Congrats to Hao-tian on passing his Ph.D. defense. He will be a postdoc research fellow at ANL and Northwestern U. this September.
   
 - March. Our previous [work](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.181901) about a new method to explore gluon saturation is now highlighted by the Dept. of Energy, USA. [Read the highlight](https://science.osti.gov/np/Highlights/2024/3e).
   
-- Jan. Congrats to Hao-tian on getting the post-doc offer from Argonne National Lab and Northwestern University and will start in Sep. 2024.
+- Jan. Congrats to Hao-tian on getting the post-doc offer from Argonne National Lab and Northwestern University, starting in Sep. 2024.
   
 ### 2023
 - Aug. Congrats to my former Postdoc Hao-yu Liu (now a faculty member at Beijing University of Chemical Technology）
