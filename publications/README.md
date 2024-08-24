@@ -1,5 +1,5 @@
 ## Publications
-The complete list of papers can be found through [INSPIRE-HEP](https://inspirehep.net/). Selected publications since 2015 are listed below: 
+The complete list of papers can be found through [INSPIRE-HEP](https://inspirehep.net/authors/1249668?ui-citation-summary=true). Selected publications since 2015 are listed below: 
   
 ### 2023 
 
