@@ -1,6 +1,8 @@
 ## News
 ### 2024
-- Aug. Xiaohui coordinated the 2nd Workshop on Advanced Topics in Quantum Field Theory in China, which focused on infrared divergence and factorization in QFT this year. The 5-day event took place on the picturesque beach in Qingdao, China, and included 10 engaging talks and numerous thought-provoking discussions.
+- Aug. Xiaohui coordinated the 2nd Workshop on Advanced Topics in Quantum Field Theory in China, focusing on infrared divergence and factorization in QFT this year. The 5-day event took place on the picturesque beach in the City of Qingdao and included ten engaging talks and numerous thought-provoking discussions.
+  
+  <img src="./IMG_8668-1.jpg" width="375" height="177">
  
 - July. Xiaohui was invited to the [Energy Correlators at the Collider Frontier workshop](https://indico.mitp.uni-mainz.de/event/358/overview) at MITP, Mainz, Germany, and gave a seminar talk on nucleon energy correlators, the talk slides can be found [here](https://indico.mitp.uni-mainz.de/event/358/contributions/5004/attachments/3607/4681/neec-eccf.pdf)
    
