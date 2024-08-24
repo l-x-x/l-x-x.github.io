@@ -23,15 +23,15 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 
   <img src="./manman.jpg" width="130" height="130">
 
-- Haotian Cao (Ph.D. student, 2019 - )\
+- Haotian Cao (Ph.D. student, 2019 - 2024 )\
   EIC-related topics\
-  Publications: [PRD 107 (2023) 11, 114008](https://doi.org/10.1103/PhysRevD.107.114008), [PRD 109 (2024) 9, 096004](https://doi.org/10.1103/PhysRevD.109.096004), [2401.01941 ](https://arxiv.org/abs/2401.01941) 
+  Publications: [PRD 107 (2023) 11, 114008](https://doi.org/10.1103/PhysRevD.107.114008), [PRD 109 (2024) 9, 096004](https://doi.org/10.1103/PhysRevD.109.096004), [PRD 110 (2024) 1, 014045](https://doi.org/10.1103/PhysRevD.110.014045) 
    
   <img src="./haotian.JPG" width="130" height="130">
   
 - Zihao Mi (Ph.D. student, 2022 - )\
   nucleon energy correlators \
-  Publications: [2312.07655](https://arxiv.org/abs/2312.07655) 
+  Publications: [PRD 109 (2024) 9, 096004](https://doi.org/10.1103/PhysRevD.109.096004)
   
   <img src="./zihao.jpg" width="100" height="140">
 
