@@ -9,12 +9,6 @@
 Professor \
 Principal Investigator 
 
-### Postdoctoral Scholars
-
- <img src="./haoyu.JPG" width="102" height="135"> 
-
-Hao-Yu Liu (2019 - 2022)\
-Now a tenured faculty at the Beijing University of Chemical Technology
 
 ### Graduate Students
 - Manman Wang (Ph.D. student, 2019 - )\
@@ -23,11 +17,6 @@ Now a tenured faculty at the Beijing University of Chemical Technology
 
   <img src="./manman.jpg" width="130" height="130">
 
-- Haotian Cao (Ph.D. student, 2019 - 2024 )\
-  EIC-related topics\
-  Publications: [PRD 107 (2023) 11, 114008](https://doi.org/10.1103/PhysRevD.107.114008), [PRD 109 (2024) 9, 096004](https://doi.org/10.1103/PhysRevD.109.096004), [PRD 110 (2024) 1, 014045](https://doi.org/10.1103/PhysRevD.110.014045) 
-   
-  <img src="./haotian.JPG" width="130" height="130">
   
 - Zihao Mi (Ph.D. student, 2022 - )\
   nucleon energy correlators \
@@ -47,13 +36,26 @@ Now a tenured faculty at the Beijing University of Chemical Technology
   
   <img src="./guorui.jpg" width="140" height="130">
  
-- Jiaqian Sun (Master student, 2018 - 2020)\
-  small-x physics\
-  Now a high-school teacher in Shenzhen (深圳) 
 
 - Zhan Wang (Master student, 2022 - )\
   nucleon energy correlators in pA collisions 
 
-### Undergraduate Students
+### Previous Members
+#### Postdoctoral Scholars
+
+Dr. Hao-Yu Liu (2019 - 2022)\
+Now a tenured faculty at the Beijing University of Chemical Technology
+
+
+#### Graduate Students
+
+- Dr. Haotian Cao (Ph.D. student, 2019 - 2024 )\
+  Now a postdoc research fellow at Northwestern University and Argonne National Lab   
+
+- Jiaqian Sun (Master student, 2018 - 2020)\
+  Now a high-school teacher in Shenzhen (深圳) 
+
+
+#### Undergraduate Students
 - Kexin Xie (2021 - 2022), graduated with a JHEP paper on Jet production in forward pA collisions. Now a Ph.D. student at Rice University. 
 - Shan Jin (2018 - 2019), graduated with a PRD paper (first author) on 2-loop N-jettiness soft function and the Beijing outstanding undergraduate thesis award. Now a Ph.D. student at Peking University. 
