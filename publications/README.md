@@ -1,6 +1,9 @@
 ## Publications
 The complete list of papers can be found through [INSPIRE-HEP](https://inspirehep.net/authors/1249668?ui-citation-summary=true). Selected publications since 2015 are listed below: 
   
+### 2024 
+- An-Ping Chen, Xiaohui Liu and Yan-Qing Ma, Shedding light on hadronization by quarkonium energy correlator, Accepted by **Phys. Rev. Lett.**  
+  
 ### 2023 
 
 - Xiaolin Li, Xiaohui Liu, Feng Yuan, and Hua Xing Zhu, Illuminating nucleon-gluon interference via calorimetric asymmetry, Phys.Rev.D 108 (2023) 9, L091502 as **letter**. 
