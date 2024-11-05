@@ -2,7 +2,7 @@
 The complete list of papers can be found through [INSPIRE-HEP](https://inspirehep.net/authors/1249668?ui-citation-summary=true). Selected publications since 2015 are listed below: 
   
 ### 2024 
-- An-Ping Chen, Xiaohui Liu and Yan-Qing Ma, Shedding light on hadronization by quarkonium energy correlator, Accepted by **Phys. Rev. Lett.**  
+- An-Ping Chen, Xiaohui Liu, and Yan-Qing Ma, Shedding light on hadronization by quarkonium energy correlator, **Phys. Rev. Lett.** 133, 191901 (2024).  
   
 ### 2023 
 
@@ -10,7 +10,7 @@ The complete list of papers can be found through [INSPIRE-HEP](https://inspirehe
   
 - Haotian Cao, Xiaohui Liu, Hua Xing Zhu, Toward precision measurements of nucleon energy correlators in lepton-nucleon collisions, Phys.Rev.D 107 (2023) 11, 114008. 
 
-- Hao-Yu Liu, Xiaohui Liu, ji-Chen Pan, Feng Yuan, and Hua Xing Zhu, Nucleon Energy Correlators for the Color Glass Condensate, **Phys. Rev. Lett.** 130 (2023) 18, 181901. (**Featured by APS Physics Magazine**: [A Different Angle on the Color Glass Condensate](https://physics.aps.org/articles/v16/s89))
+- Hao-Yu Liu, Xiaohui Liu, Ji-Chen Pan, Feng Yuan, and Hua Xing Zhu, Nucleon Energy Correlators for the Color Glass Condensate, **Phys. Rev. Lett.** 130 (2023) 18, 181901. (**Featured by APS Physics Magazine**: [A Different Angle on the Color Glass Condensate](https://physics.aps.org/articles/v16/s89))
 
 - Xiaohui Liu and Hua Xing Zhu, Nucleon Energy Correlators, **Phys. Rev. Lett.** 130 (2023) 9, 9. 
 
