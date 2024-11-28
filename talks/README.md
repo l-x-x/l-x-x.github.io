@@ -2,6 +2,10 @@
 
 Selected talks from our group members highlight the migration and evolution of our research focus over time.
 ### 2024
+- [Nucleon Energy Correlator](https://indico.impcas.ac.cn/event/55/contributions/642/attachments/288/965/eec-target-light-cone.pdf), Xiaohui Liu, Light-Cone 2024: Hadron Physics in the EIC era, Hui Zhou, Guangdong Province, Nov. 29, 2024
+
+- [QCD Energy Correlator at Colliders](https://indico.ihep.ac.cn/event/22941/contributions/171109/attachments/84811/108376/eec-clhcp-xiaohuiliu.pdf), Xiaohui Liu, CLHCP2024, Qingdao, Shandong Province, Nov 17, 2024
+  
 - [Energy Correlators for Hadronic Structures](https://indico.ihep.ac.cn/event/11115/contributions/166458/attachments/81899/103183/eec-henpic.pdf), Xiaohui Liu, High-energy Nuclear Physics in China (HENPIC), Sep 12, 2024.
   
 - [Quarkonium Energy Correlator](https://indico.ihep.ac.cn/event/22363/contributions/159065/attachments/80302/100601/charmonium-ec-lhcb.pdf), Xiaohui Liu, LHCb Physics Frontier, Yan Tai, Shandong Province, Jul 27 – 31, 2024. 
