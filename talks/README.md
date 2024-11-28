@@ -2,20 +2,27 @@
 
 Selected talks from our group members highlight the migration and evolution of our research focus over time.
 ### 2024
-- [Nucleon Energy Correlator](https://indico.impcas.ac.cn/event/55/contributions/642/attachments/288/965/eec-target-light-cone.pdf), Xiaohui Liu, Light-Cone 2024: Hadron Physics in the EIC era, Hui Zhou, Guangdong Province, Nov. 29, 2024
+- [Nucleon Energy Correlator](https://indico.impcas.ac.cn/event/55/contributions/642/attachments/288/965/eec-target-light-cone.pdf),\
+   Xiaohui Liu, Light-Cone 2024: Hadron Physics in the EIC era, Hui Zhou, Guangdong Province, Nov. 29, 2024
 
-- [QCD Energy Correlator at Colliders](https://indico.ihep.ac.cn/event/22941/contributions/171109/attachments/84811/108376/eec-clhcp-xiaohuiliu.pdf), Xiaohui Liu, CLHCP2024, Qingdao, Shandong Province, Nov 17, 2024
+- [QCD Energy Correlator at Colliders](https://indico.ihep.ac.cn/event/22941/contributions/171109/attachments/84811/108376/eec-clhcp-xiaohuiliu.pdf),\
+   Xiaohui Liu, CLHCP2024, Qingdao, Shandong Province, Nov 17, 2024
   
-- [Energy Correlators for Hadronic Structures](https://indico.ihep.ac.cn/event/11115/contributions/166458/attachments/81899/103183/eec-henpic.pdf), Xiaohui Liu, High-energy Nuclear Physics in China (HENPIC), Sep 12, 2024.
+- [Energy Correlators for Hadronic Structures](https://indico.ihep.ac.cn/event/11115/contributions/166458/attachments/81899/103183/eec-henpic.pdf), \
+  Xiaohui Liu, High-energy Nuclear Physics in China (HENPIC), Sep 12, 2024.
   
-- [Quarkonium Energy Correlator](https://indico.ihep.ac.cn/event/22363/contributions/159065/attachments/80302/100601/charmonium-ec-lhcb.pdf), Xiaohui Liu, LHCb Physics Frontier, Yan Tai, Shandong Province, Jul 27 – 31, 2024. 
+- [Quarkonium Energy Correlator](https://indico.ihep.ac.cn/event/22363/contributions/159065/attachments/80302/100601/charmonium-ec-lhcb.pdf),\
+   Xiaohui Liu, LHCb Physics Frontier, Yan Tai, Shandong Province, Jul 27 – 31, 2024. 
 
-- [Nucleon Energy Correlator](https://indico.mitp.uni-mainz.de/event/358/contributions/5004/attachments/3607/4681/neec-eccf.pdf), Xiaohui Liu, Energy Correlators at the Collider Frontier, MITP - Mainz Institute for Theoretical Physics, Johannes Gutenberg University Mainz, Jul 8 – 19, 2024. 
+- [Nucleon Energy Correlator](https://indico.mitp.uni-mainz.de/event/358/contributions/5004/attachments/3607/4681/neec-eccf.pdf),\
+  Xiaohui Liu, Energy Correlators at the Collider Frontier, MITP - Mainz Institute for Theoretical Physics, Johannes Gutenberg University Mainz, Jul 8 – 19, 2024. 
 
-- [lluminating Nucleon Gluon Interference via Calorimetric Asymmetry](https://indico.fis.ucm.es/event/20/contributions/546/attachments/355/614/SCET2024_xiaolin.pdf), Xiaolin Li, the XXI annual workshop on Soft-Collinear Effective Theory, Salamanca, Colegio Arzobispo Fonseca, Spain, 15-18 April 2024. 
+- [lluminating Nucleon Gluon Interference via Calorimetric Asymmetry](https://indico.fis.ucm.es/event/20/contributions/546/attachments/355/614/SCET2024_xiaolin.pdf),\
+  Xiaolin Li, the XXI annual workshop on Soft-Collinear Effective Theory, Salamanca, Colegio Arzobispo Fonseca, Spain, 15-18 April 2024. 
 
 ### 2023
-- [Nucleon Energy-Energy Correlator in Lepton-Ion Collisions](https://indico.jlab.org/event/663/contributions/12836/attachments/10337/15460/1_HTC_SPIN2023.pdf), Haotian Cao, the 25th International Spin Symposium (SPIN 2023), Duke University, Sep 26, 2023.
+- [Nucleon Energy-Energy Correlator in Lepton-Ion Collisions](https://indico.jlab.org/event/663/contributions/12836/attachments/10337/15460/1_HTC_SPIN2023.pdf),\
+  Haotian Cao, the 25th International Spin Symposium (SPIN 2023), Duke University, Sep 26, 2023.
   
 - [Phenomenology for forward particle production in pA collisions in CGC framework](https://indico.jlab.org/event/696/contributions/13156/attachments/10116/15058/EICUS_Early_Career_Manman_Wang_slides.pdf),\
   Manman Wang, 2023 EIC User Group Early Career Workshop, Warsaw University, Jul 23, 2023. 
