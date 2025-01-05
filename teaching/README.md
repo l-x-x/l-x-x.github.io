@@ -7,6 +7,10 @@
 - Introduction to Particle Physics (2022 Fall)
 
 ## Summer Schools
+### 2024 
+- [Introduction to perturbative QCD], a series of lectures given at Sun Yat-sen University, Shenzhen.
+  [part 1: QCD basics and asymptotic freedom](), [part2: parton-hadron duality](), [part3: infrared behaviour]() and [part4: PDF and DGLAP]()
+  
 ### 2023 
 - [An Introduction to TMDs](https://indico.ihep.ac.cn/event/19083/contributions/136588/attachments/70326/84777/Note%20Jul%208%2C%202023%281%29.pdf), QCD and Nuclear Physics, Shandong University (Qingdao). [[video](https://www.koushare.com/lives/room/755973)]
   
