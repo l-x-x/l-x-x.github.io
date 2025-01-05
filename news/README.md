@@ -1,6 +1,9 @@
 ## News
+### 2025
+Jan. Xiaohui gave lectures on perturbative QCD at the "New Physics Winter School" hosted by Sun Yat-sen University, Shenzhen. Lecture notes can be found [here](https://l-x-x.github.io/teaching/). 
+  
 ### 2024
-- Nov. We are happy to have Dr. Kyle Lee from MIT to give a seminar on [energy correlators](https://physics.bnu.edu.cn/docs/2024-10/d6ced4a28fa44e29bf068f284354b89d.pdf).
+- Nov. We are happy to have Dr. Kyle Lee from MIT give a seminar on [energy correlators](https://physics.bnu.edu.cn/docs/2024-10/d6ced4a28fa44e29bf068f284354b89d.pdf).
   
 - Aug. Xiaohui coordinated the 2nd Workshop on Advanced Topics in Quantum Field Theory in China, focusing on infrared divergence and factorization in QFT this year. The 5-day event took place on the picturesque beach in the City of Qingdao and included ten engaging talks and numerous thought-provoking discussions.
   
