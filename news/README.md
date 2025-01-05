@@ -1,6 +1,6 @@
 ## News
 ### 2025
-Jan. Xiaohui gave lectures on perturbative QCD at the "New Physics Winter School" hosted by Sun Yat-sen University, Shenzhen. Lecture notes can be found [here](https://l-x-x.github.io/teaching/). 
+- Jan. Xiaohui gave lectures on perturbative QCD at the "New Physics Winter School" hosted by Sun Yat-sen University, Shenzhen. Lecture notes can be found [here](https://l-x-x.github.io/teaching/). 
   
 ### 2024
 - Nov. We are happy to have Dr. Kyle Lee from MIT give a seminar on [energy correlators](https://physics.bnu.edu.cn/docs/2024-10/d6ced4a28fa44e29bf068f284354b89d.pdf).
