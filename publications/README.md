@@ -16,7 +16,8 @@ The complete list of papers can be found through [INSPIRE-HEP](https://inspirehe
 
 ### 2022 
 
-- Wen Chen, Feng Feng, Yu Jia, and Xiaohui Liu, Double-real-virtual and double-virtual-real corrections to the three-loop thrust soft function, JHEP 12 (2022) 094.  
+- Wen Chen, Feng Feng, Yu Jia, and Xiaohui Liu, Double-real-virtual and double-virtual-real corrections to the three-loop thrust soft function, JHEP 12 (2022) 094.
+  
 - QuNu Collaboration Tianyin Li et al., Partonic Collinear Structure by Quantum Computing, Phys.Rev.D 105 (2022) 11, L111502 as **letter**. 
 
 ### 2021 
