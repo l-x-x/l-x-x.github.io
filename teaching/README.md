@@ -9,7 +9,7 @@
 ## Summer Schools
 ### 2024 
 - [Introduction to perturbative QCD], a series of lectures given at Sun Yat-sen University, Shenzhen.
-  [part 1: QCD basics and asymptotic freedom](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-1.pdf), [part2: parton-hadron duality](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-2.pdf), [part3: infrared behaviour](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-3.pdf) and [part4: PDF and DGLAP](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-4.pdf)
+  [Part 1: QCD basics and asymptotic freedom](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-1.pdf), [Part 2: parton-hadron duality](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-2.pdf), [Part 3: infrared behaviour](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-3.pdf) and [Part 4: PDF and DGLAP](https://l-x-x.github.io/qft-2019/QCD-Zhongshan-Part-4.pdf)
   
 ### 2023 
 - [An Introduction to TMDs](https://indico.ihep.ac.cn/event/19083/contributions/136588/attachments/70326/84777/Note%20Jul%208%2C%202023%281%29.pdf), QCD and Nuclear Physics, Shandong University (Qingdao). [[video](https://www.koushare.com/lives/room/755973)]
