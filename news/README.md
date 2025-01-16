@@ -1,6 +1,6 @@
 ## News
 ### 2025
-- Jan.  We are happy to have Dr. Ning Su from Caltech & MIT visit the Physics Department and give a seminar on [Bootstrap Meets Experimental Data](https://multiscale.bnu.edu.cn/xsbg/51e3c055679a44f0b96e717aaa50569c.htm).
+- Jan.  We are happy to have Dr. Ning Su from Caltech & MIT visit us and give a seminar on [Bootstrap Meets Experimental Data](https://multiscale.bnu.edu.cn/xsbg/51e3c055679a44f0b96e717aaa50569c.htm).
 
 - Jan. Xiaohui gave lectures on perturbative QCD at the "New Physics Winter School" hosted by Sun Yat-sen University, Shenzhen. Lecture notes can be found [here](https://l-x-x.github.io/teaching/). 
   
