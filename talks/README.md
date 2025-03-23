@@ -1,6 +1,9 @@
 ## Talks
 
 Selected talks from our group members highlight the migration and evolution of our research focus over time.
+### 2025
+- [Forward Particle Production in pA Collisions](https://indico.ihep.ac.cn/event/25352/contributions/183180/attachments/88776/114773/talk-hongkong.pdf), Xiaohui Liu, The Hadronic Interaction Workshop, Hong Kong, Mar. 18-20, 2025
+  
 ### 2024
 - [Nucleon Energy Correlator](https://indico.impcas.ac.cn/event/55/contributions/642/attachments/288/965/eec-target-light-cone.pdf),\
    Xiaohui Liu, Light-Cone 2024: Hadron Physics in the EIC era, Hui Zhou, Guangdong Province, Nov. 29, 2024
