@@ -1,6 +1,6 @@
 ## News
 ### 2025
-- Mar. Xiaohui is invited to the Hadronic Interaction Workshop hosted by the Chinese University of Hong Kong. The workshop aimed to explore the potential applications of small-x physics in high-energy cosmic ray experiments at LHAASO. 
+- Mar. Xiaohui is invited to the Hadronic Interaction Workshop hosted by the Chinese University of Hong Kong. The workshop aimed to explore the potential applications of small-x physics in high-energy cosmic ray experiments at LHAASO. It is interesting to note that what the LHAASO experiment measures, the so-called energy flow, is nothing but the nucleon energy correlator we proposed to understand the nucleon/nucleus internal structures. 
 
 - Jan.  We are happy to have Dr. Ning Su from Caltech & MIT visit us and give a seminar on [Bootstrap Meets Experimental Data](https://multiscale.bnu.edu.cn/xsbg/51e3c055679a44f0b96e717aaa50569c.htm).
 
