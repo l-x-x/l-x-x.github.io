@@ -1,5 +1,8 @@
 ## Publications
 The complete list of papers can be found through [INSPIRE-HEP](https://inspirehep.net/authors/1249668?ui-citation-summary=true). Selected publications since 2015 are listed below: 
+
+### 2025 
+- Xiaohui Liu, Werner Vogelsang, Feng Yuan, and Hua Xing Zhu, Universality in the Near-side Energy-Energy Correlator, **Phys. Rev. Lett.**, accepted.
   
 ### 2024 
 - An-Ping Chen, Xiaohui Liu, and Yan-Qing Ma, Shedding light on hadronization by quarkonium energy correlator, **Phys. Rev. Lett.** 133, 191901 (2024).  
