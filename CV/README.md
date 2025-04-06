@@ -2,7 +2,7 @@
 
 ### Xiaohui Liu (刘晓辉)
 Professor \
-Physics Department, Beijing Normal University \
+School of Physics and Astronomy, Beijing Normal University \
 Office: C405 Sci. & Tech. Building \
 Email:xiliu@bnu.edu.cn/xiaohuiliu@gmail.com 
 
