@@ -7,7 +7,8 @@ Office: C405 Sci. & Tech. Building \
 Email:xiliu@bnu.edu.cn/xiaohuiliu@gmail.com 
 
 ### Academic Experience 
-- 2022 - now, Professor, Physics Department, Beijing Normal University
+- 2024 - present, Professor, School of Physics and Astronomy, Beijing Normal University
+- 2022 - 2024, Professor, Physics Department, Beijing Normal University
 - 2019 - 2022, T. D. Lee Junior Fellow, Center for High Energy Physics, Peking University
 - 2017 - 2022, Assistant Professor, Physics Department, Beijing Normal University
 - 2014 - 2017, Research Associate, University of Maryland, College Park
