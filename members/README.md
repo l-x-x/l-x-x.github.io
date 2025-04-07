@@ -30,13 +30,7 @@ Principal Investigator
   Publications: [Phys. Rev. D 108, L091502](https://doi.org/10.1103/PhysRevD.108.L091502).
 
   <img src="./xiaolin.jpg" width="120" height="130">
-
-- Guorui Li (Ph.D. student, 2023 - )\
-  jettiness, nucleon energy correlators in pA collisions
-  
-  <img src="./guorui.jpg" width="140" height="130">
  
-
 - Zhan Wang (Master student, 2022 - )\
   nucleon energy correlators in pA collisions 
 
