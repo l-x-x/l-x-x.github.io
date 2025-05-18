@@ -1,5 +1,11 @@
 ## News
 ### 2025
+- May 6 - May 16. We recently hosted a two-week program at C3NT titled "New Opportunities in Particle and Nuclear Physics with Energy Correlators" (能量关联子：粒子物理与核物理研究的新机遇). This gathering not only fostered vibrant scientific exchange but also provided a welcoming space for participants to reconnect with colleagues and forge new connections. The program was marked by thought-provoking discussions, collaborative brainstorming, and fresh insights into the transformative potential of energy correlators across these fields.
+
+All presentations from the event are now available online [here](https://indico.ihep.ac.cn/event/24880/timetable/#20250505).
+
+ 
+  
 - Mar. Xiaohui is invited to the Hadronic Interaction Workshop hosted by the Chinese University of Hong Kong. The workshop aimed to explore the potential applications of small-x physics in high-energy cosmic ray experiments at LHAASO. It is interesting to note that what the LHAASO experiment measures, the so-called energy flow, is nothing but the nucleon energy correlator we proposed to understand the nucleon/nucleus internal structures. 
 
 - Jan.  We are happy to have Dr. Ning Su from Caltech & MIT visit us and give a seminar on [Bootstrap Meets Experimental Data](https://multiscale.bnu.edu.cn/xsbg/51e3c055679a44f0b96e717aaa50569c.htm).
