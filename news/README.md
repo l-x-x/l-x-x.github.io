@@ -3,7 +3,15 @@
 - May 6 - May 16. We recently hosted a two-week program at [C3NT](https://c3nt.ccnu.edu.cn/) titled ["New Opportunities in Particle and Nuclear Physics with Energy Correlators" (能量关联子：粒子物理与核物理研究的新机遇)](https://indico.ihep.ac.cn/event/24880/). This gathering not only fostered vibrant scientific exchange but also provided a welcoming space for participants to reconnect with colleagues and forge new connections. The program was marked by thought-provoking discussions, collaborative brainstorming, and fresh insights into the transformative potential of energy correlators across these fields.
 All presentations from the event are now available online [here](https://indico.ihep.ac.cn/event/24880/timetable/#20250505).
 
- 
+- Mar. In a recent [work](http://arxiv.org/abs/2505.06347), we proposed using LLM (DeepSeek-Distill-Qwen-32B) + feedback + genetic algorithm to automate quantum state preparation on quantum circuits. More refined results are on the way. At the moment, the Pros we found:
+ ✅ Works with natural language prompts (no physics specs like boundaries/symmetry/Hamiltonian).
+ ✅ Finds optimal circuits for Ising/XY model ground states in O(10-100) hrs—no expert input, strict parameter  limits.
+ ✅ Circuits scale to larger systems.
+ ✅ LLM intuitively proposed a boundary-sensitive, symmetry-preserving rotation, hinting at "learning" physics.......
+ Importantly, the framework is not limited to quantum circuit design but has a broad application in science.  If we frame everything as a search problem, AI will surpass humans, given good evaluation + evolution. However, designing those is hard, and evaluation costs can break the system.
+
+    <img src="./workflow.png" width="375" height="300"> 
+
   
 - Mar. Xiaohui is invited to the Hadronic Interaction Workshop hosted by the Chinese University of Hong Kong. The workshop aimed to explore the potential applications of small-x physics in high-energy cosmic ray experiments at LHAASO. It is interesting to note that what the LHAASO experiment measures, the so-called energy flow, is nothing but the nucleon energy correlator we proposed to understand the nucleon/nucleus internal structures. 
 
