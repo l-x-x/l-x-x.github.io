@@ -8,7 +8,7 @@
 
 ## Summer and Winter Schools
 ### 2025 
-- [Introduction to TMDs](), lecture notes given at the "Summer School on Frontiers in Perturbative Quantum Field Theory", July 14 and 15, 2025. 
+- [Introduction to TMDs](https://l-x-x.github.io/qft-2019/TMD-lecture-shanda.pdf), lecture notes given at the "Summer School on Frontiers in Perturbative Quantum Field Theory", Shandong University, Jinan, July 14 and 15, 2025. 
  
 - Introduction to perturbative QCD, a series of lectures given at the "New Physics Winter School" hosted by Sun Yat-sen University, Shenzhen, January 4, 2025. Lecture notes: [Part 1: QCD basics and asymptotic freedom](https://l-x-x.github.io/qft-2019/QCD-ZhongShan-Part-1.pdf), [Part 2: parton-hadron duality](https://l-x-x.github.io/qft-2019/QCD-ZhongShan-Part-2.pdf), [Part 3: infrared behavior](https://l-x-x.github.io/qft-2019/QCD-ZhongShan-Part-3.pdf) and [Part 4: PDF and DGLAP](https://l-x-x.github.io/qft-2019/QCD-ZhongShan-Part-4.pdf)
   
