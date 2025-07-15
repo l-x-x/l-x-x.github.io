@@ -18,7 +18,7 @@ Email:xiliu@bnu.edu.cn/xiaohuiliu@gmail.com
 - National Top Young Scholar (中组部青年拔尖）, 1.6m Grant.
 
 ### Grants 
-- 2025 - 2027, Fundamental Research Funds for the Central Universities (0.5m Grant).
+- 2025 - 2027, QCD at Colliders (0.5m Grant), Fundamental Research Funds for the Central Universities.
 - 2022 - 2025, anti-k_T jet functions at 2-loops and forward jet production in pA collisions (0.63m Grant), General Program of the National Natural Science Foundation of China. 
 - 2019, Collider Phenomenology Summer School (0.3m Grant), Special Fund of the National Natural Science Foundation of China 
 - 2018 - 2021, NNLO predictions for jet-associated processes at the LHC (0.6m Grant), General Program of the National Natural Science Foundation of China. 
