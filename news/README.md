@@ -1,5 +1,7 @@
 ## News
 ### 2025
+- July 14 - July 15. Xiaohui was invited to give a lecture on TMD physics at Shandong University, Jinan. The lecture notes can be found [here](https://l-x-x.github.io/qft-2019/TMD-lecture-shanda.pdf).
+  
 - July 6 - July 10. Xiaohui was invited to visit the CERN TH HI group and gave a TH Heavy Ion Coffee Seminar on the topic of [EEC for Non-perturbative QCD](https://indico.cern.ch/event/1563011/). 
   
 - May 6 - May 16. We recently hosted a two-week program at [C3NT](https://c3nt.ccnu.edu.cn/) titled ["New Opportunities in Particle and Nuclear Physics with Energy Correlators" (能量关联子：粒子物理与核物理研究的新机遇)](https://indico.ihep.ac.cn/event/24880/). This gathering not only fostered vibrant scientific exchange but also provided a welcoming space for participants to reconnect with colleagues and forge new connections. The program was marked by thought-provoking discussions, collaborative brainstorming, and fresh insights into the transformative potential of energy correlators across these fields.
