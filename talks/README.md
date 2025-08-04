@@ -2,6 +2,8 @@
 
 Selected talks from our group members highlight the migration and evolution of our research focus over time.
 ### 2025
+- [J\psi energy correlator for heavy quark hadronization](https://indico.ihep.ac.cn/event/24461/contributions/193897/attachments/93070/121788/talk-ihep.pdf), Xiaohui Liu, International Workshop on New Opportunities for Particle Physics 2025, IHEP, Beijing, Jul 18–20, 2025
+  
 - [Probing Non-Perturbative Physics with Energy Correlators](https://indico.cern.ch/event/1563011/attachments/3099723/5492109/talk-cern.pdf), Xiaohui Liu, CERN Theory Heavy Ion Coffee, Geneva, Switzerland, July 6-10, 2025
   
 - [Forward Particle Production in pA Collisions](https://indico.ihep.ac.cn/event/25352/contributions/183180/attachments/88776/114773/talk-hongkong.pdf), Xiaohui Liu, The Hadronic Interaction Workshop, Hong Kong, Mar. 18-20, 2025
