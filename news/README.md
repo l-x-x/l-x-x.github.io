@@ -1,4 +1,7 @@
 ## News
+### 2026
+- January. Xiaohui has been awarded a Chinese NSF grant of 300 million RMB for research on new avenues into the nucleon structure. The funding period runs from 2026 to 2029. 
+
 ### 2025
 - July 14 - July 15. Xiaohui was invited to give a lecture on TMD physics at Shandong University, Jinan. The lecture notes can be found [here](https://l-x-x.github.io/qft-2019/TMD-lecture-shanda.pdf).
   
