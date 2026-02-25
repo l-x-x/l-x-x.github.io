@@ -1,6 +1,9 @@
 ## Publications
 The complete list of papers can be found through [INSPIRE-HEP](https://inspirehep.net/authors/1249668?ui-citation-summary=true). Selected publications since 2015 are listed below: 
 
+### 2026
+- Cyuan-Han Chang, Hao Chen, Xiaohui Liu, David Simmons-Duffin, Feng Yuan, and Hua Xing Zhu, Quantum Scaling in Energy Correlators Beyond the Confinement Transition, **Phys. Rev. Lett.** 136 (2026) 8, 081903.
+
 ### 2025 
 - Xiaohui Liu, Werner Vogelsang, Feng Yuan, and Hua Xing Zhu, Universality in the Near-side Energy-Energy Correlator, **Phys. Rev. Lett.** 134 (2025) 15, 151901.
   
