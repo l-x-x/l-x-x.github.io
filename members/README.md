@@ -31,7 +31,7 @@ Principal Investigator
 
   <img src="./xiaolin.jpg" width="120" height="130">
  
-- Zhan Wang (Master student, 2022 - )\
+- Zhan Wang (Ph.D. student, 2022 - )\
   nucleon energy correlators in pA collisions 
 
 ### Previous Members
