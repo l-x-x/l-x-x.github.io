@@ -5,6 +5,8 @@
 - January. Xiaohui has been awarded a Chinese NSF grant of 300 million RMB for research on new avenues into the nucleon structure. The funding period runs from 2026 to 2029. 
 
 ### 2025
+- October 22 - October 24. Xiaohui was invited to give a talk on "Energy Correlators for the Future EIC" at the KPS fall meeting held in Gwangju, Korea. 
+
 - July 14 - July 15. Xiaohui was invited to give a lecture on TMD physics at Shandong University, Jinan. The lecture notes can be found [here](https://l-x-x.github.io/qft-2019/TMD-lecture-shanda.pdf).
   
 - July 6 - July 10. Xiaohui was invited to visit the CERN TH HI group and gave a TH Heavy Ion Coffee Seminar on the topic of [EEC for Non-perturbative QCD](https://indico.cern.ch/event/1563011/). 
