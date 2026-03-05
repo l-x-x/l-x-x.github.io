@@ -1,6 +1,6 @@
 ## News
 ### 2026
-- March 2 - March 5. Zhan Wang gave a talk on our ongoing work about [the possible novel precision extraction of the strong coupling constant using EEC in the post-confinement region](https://indico.nuclear.korea.ac.kr/event/87/contributions/391/attachments/278/423/ZhanWang_SECT26.pdf) at the XXIII Annual Workshop on Soft-Collinear Effective Theory held at the Korea Institute for Advanced Study (KIAS) in Seoul, Korea. 
+- March 2 - March 5. Zhan Wang gave a talk on our ongoing work about [the possible novel precision extraction of the strong coupling constant using EEC in the post-confinement region](https://indico.nuclear.korea.ac.kr/event/87/contributions/391/attachments/278/423/ZhanWang_SECT26.pdf) at the XXIII Annual Workshop on Soft-Collinear Effective Theory held at the Korea Institute for Advanced Study (KIAS) in Seoul, Korea. Another student collaborator, Shu-Tao Zhang from Peking University, presented our work on the [fragmentation energy correlator](https://indico.nuclear.korea.ac.kr/event/87/contributions/387/attachments/279/424/SCET_FEC.pdf) at the same workshop.
   
 - January. Xiaohui has been awarded a Chinese NSF grant of 300 million RMB for research on new avenues into the nucleon structure. The funding period runs from 2026 to 2029. 
 
