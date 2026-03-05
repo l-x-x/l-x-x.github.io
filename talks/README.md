@@ -1,7 +1,12 @@
 ## Talks
 
 Selected talks from our group members highlight the migration and evolution of our research focus over time.
+### 2026
+- [The Post-Confinement Plateau of Energy–Energy Correlators as a Precision Probe of \alpha_s (M_Z)](https://indico.nuclear.korea.ac.kr/event/87/contributions/391/attachments/278/423/ZhanWang_SECT26.pdf), Wang Zhan, The XXIII Annual Workshop on Soft-Collinear Effective Theory, KIAS, Seoul, Korea, May 2-5, 2026
+
 ### 2025
+- [Energy Correlators for the Future EIC], Xiaohui Liu, Korean Physics Society Fall Meeting, Gwangju, Korea, Oct 22-24, 2025
+  
 - [J\psi energy correlator for heavy quark hadronization](https://indico.ihep.ac.cn/event/24461/contributions/193897/attachments/93070/121788/talk-ihep.pdf), Xiaohui Liu, International Workshop on New Opportunities for Particle Physics 2025, IHEP, Beijing, Jul 18–20, 2025
   
 - [Probing Non-Perturbative Physics with Energy Correlators](https://indico.cern.ch/event/1563011/attachments/3099723/5492109/talk-cern.pdf), Xiaohui Liu, CERN Theory Heavy Ion Coffee, Geneva, Switzerland, July 6-10, 2025
