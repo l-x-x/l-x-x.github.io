@@ -1,8 +1,8 @@
 ## News
 ### 2026
-- March Xiaohui wrote a set of writing procotals （～160k prompts) trying to automate the research writing by chatgpt. The workflow is given here
+- March Xiaohui wrote (well, AI wrote) a set of writing procotals （～160k prompts) trying to automate the research writing by chatgpt. The workflow is given here
 
-<img src="./workflow-ai.png" width="375" height="400">
+<img src="./workflow-ai.png" width="475" height="500">
       
   The protocols are designed for AI coding agents, while a test was conducted using ChatGPT-5.4 thinking, operating through web-page  and relying on its sandbox service. Before writing, the AI is required to do in-depth reference research based on the user's writing  motivation. The conversation used to write a regular research paper can be found [here](https://l-x-x.github.io/news/regular-article-ai.pdf). Compared with writing (stage 3 and stage 4), It is more interesting to observe the learning process: how the LLM becomes aware of potential mistakes in the provided (unchecked) equations and how, by reading the references in State 2, it builds a clear picture of the research—including its history, connections between different papers, and trends.
 
