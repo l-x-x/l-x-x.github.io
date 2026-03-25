@@ -1,6 +1,6 @@
 ## News
 ### 2026
-- March. Xiaohui wrote (well, AI wrote) a set of writing procotals （～160KB) trying to automate the research writing by chatgpt. The workflow is given here
+- March. Xiaohui wrote (well, AI wrote) a set of writing protocols （～160KB prompt file) trying to automate the research writing by chatgpt. The workflow is given here
 
 <img src="./workflow-ai.png" width="475" height="500">
       
