@@ -1,6 +1,8 @@
 ## News
 ### 2026
-- March. Xiaohui wrote (well, AI wrote) a set of writing protocols （～160KB prompt file and now upgraded to ~200KB) trying to automate the research writing by ChatGPT. The workflow is given here
+- April 8 - April 12. We are happy to have Joao Barata visit us and give a talk on Heavy Ion Physics. Joao is currently a postdoc at CERN and will start his faculty position at the Brookhaven National Lab this fall.
+
+- March. Xiaohui wrote (well, AI wrote) a set of writing protocols （～160KB prompt file and now upgraded to ~200KB), trying to automate the research writing by ChatGPT. The workflow is given here
 
 <img src="./workflow-ai.png" width="475" height="500">
       
