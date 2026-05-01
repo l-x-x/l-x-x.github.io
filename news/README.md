@@ -1,8 +1,8 @@
 ## News
 ### 2026
-- April 10 - April 27. Xiaohui finished a long Beijing-Guilin-Chengdu-Qingdao-Chongqing-Beijing trip, giving talks on possible alpha_s extraction in the unexpected post-confinement regime of EEC.
+- April 10 - April 27. Xiaohui finished a long Beijing-Guilin-Chengdu-Qingdao-Chongqing-Beijing trip, giving talks on possible alpha_s extraction in the unexpected post-confinement regime of EEC. Below is a small, everyday scene from a Guilin community, a city best known for its scenic mountains and rivers
 
-    <img src="./guilin.jpg" width="375" height="197">
+    <img src="./guilin.jpg" width="375" height="200">
  
 - April 8 - April 12. We are happy to have Joao Barata visit us and give a talk on Heavy Ion Physics. Joao is currently a postdoc at CERN and will start his faculty position at the Brookhaven National Lab this fall.
 
