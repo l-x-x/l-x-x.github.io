@@ -37,6 +37,9 @@ Now a tenured faculty member at the Beijing University of Chemical Technology
 - Dr. Haotian Cao (Ph.D. student, 2019 - 2024)\
   Moved to Northwestern University and Argonne National Lab as a postdoc research fellow
 
+- Zhongshuo Yang (Master student, 2023 - 2026)\
+  Went to Shandong University（山大）for Ph.D.  
+
 - Jiaqian Sun (Master student, 2018 - 2020)\
   Now a high-school teacher in Shenzhen (深圳) 
 
