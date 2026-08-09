@@ -1,12 +1,14 @@
 ## News
 ### 2026
+- August 2 - August 7. Xiaohui visited the Erwin-Schrödinger International Institute for Mathematics and Physics (ESI) at the University of Vienna and attended the Programme "New Paradigms for Harnessing Quantum Field Theory at Colliders", July 27 - August 28, 2026. 
+  
 - April 10 - April 27. Xiaohui finished a long Beijing-Guilin-Chengdu-Qingdao-Chongqing-Beijing trip, giving talks on possible alpha_s extraction in the unexpected post-confinement regime of EEC. Below is a small, everyday scene from a Guilin community, a city best known for its scenic mountains and rivers
 
     <img src="./guilin.jpg" width="375" height="200">
  
-- April 8 - April 12. We are happy to have Joao Barata visit us and give a talk on Heavy Ion Physics. Joao is currently a postdoc at CERN and will start his faculty position at the Brookhaven National Lab this fall.
+- April 8 - April 12. We are happy to have Joao Barata visit us and give a talk on Heavy Ion Physics. Joao is currently a postdoc at CERN and will start his faculty position at Brookhaven National Lab this fall.
 
-- March. Xiaohui wrote (well, AI wrote) a set of writing protocols （～160KB prompt file and now upgraded to ~200KB), trying to automate the research writing by ChatGPT. The workflow is given here
+- March. Xiaohui wrote (well, AI wrote) a set of writing protocols (～160KB prompt file and now upgraded to ~200KB), trying to automate the research writing by ChatGPT. The workflow is given here
 
 <img src="./workflow-ai.png" width="475" height="500">
       
