@@ -1,6 +1,6 @@
 ## News
 ### 2026
-- August 2 - August 7. Xiaohui visited the Erwin-Schrödinger International Institute for Mathematics and Physics (ESI) at the University of Vienna and attended the Programme "New Paradigms for Harnessing Quantum Field Theory at Colliders", July 27 - August 28, 2026. 
+- August 2 - August 7. Xiaohui visited the Erwin-Schrödinger International Institute for Mathematics and Physics (ESI) at the University of Vienna, a place with blackboards in the bathroom, and attended the Programme "New Paradigms for Harnessing Quantum Field Theory at Colliders", July 27 - August 28, 2026. 
   
 - April 10 - April 27. Xiaohui finished a long Beijing-Guilin-Chengdu-Qingdao-Chongqing-Beijing trip, giving talks on possible alpha_s extraction in the unexpected post-confinement regime of EEC. Below is a small, everyday scene from a Guilin community, a city best known for its scenic mountains and rivers
 
