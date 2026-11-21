@@ -2,7 +2,7 @@
 
 Selected talks from our group members highlight the migration and evolution of our research focus over time.
 ### 2026
-- [The Post-Confinement Plateau of Energy–Energy Correlators as a Precision Probe of \alpha_s (M_Z)](https://indico.nuclear.korea.ac.kr/event/87/contributions/391/attachments/278/423/ZhanWang_SECT26.pdf), Wang Zhan, The XXIII Annual Workshop on Soft-Collinear Effective Theory, KIAS, Seoul, Korea, May 2-5, 2026
+- [The Post-Confinement Plateau of Energy–Energy Correlators as a Precision Probe of \alpha_s (M_Z)](https://indico.nuclear.korea.ac.kr/event/87/contributions/391/attachments/278/423/ZhanWang_SECT26.pdf), Wang Zhan, The XXIII Annual Workshop on Soft-Collinear Effective Theory, KIAS, Seoul, Korea, March 2–5, 2026
 
 ### 2025
 - [Energy Correlators for the Future EIC], Xiaohui Liu, Korean Physics Society Fall Meeting, Gwangju, Korea, Oct 22-24, 2025
